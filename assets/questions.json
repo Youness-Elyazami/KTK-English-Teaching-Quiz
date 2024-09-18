@@ -1,0 +1,6491 @@
+[
+  {
+    "question": "The _______________approach holds that language is primarily used for communication and that it does not exist without users.",
+    "answers": [
+      {
+        "text": "universal grammar",
+        "isCorrect": false
+      },
+      {
+        "text": "Structural",
+        "isCorrect": false
+      },
+      {
+        "text": "skill-acquisition",
+        "isCorrect": false
+      },
+      {
+        "text": "functional",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "The ___________________ explains language learning by taking into account exposure to language, language production and also feedback on this production.",
+    "answers": [
+      {
+        "text": "process approach",
+        "isCorrect": false
+      },
+      {
+        "text": "monitor hypothesis",
+        "isCorrect": false
+      },
+      {
+        "text": "natural hypothesis",
+        "isCorrect": false
+      },
+      {
+        "text": "interaction approach",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "The \"input\" in second language acquisition refers to\u2026",
+    "answers": [
+      {
+        "text": "The language a learner produces in speaking",
+        "isCorrect": false
+      },
+      {
+        "text": "the language a learner is exposed to",
+        "isCorrect": true
+      },
+      {
+        "text": "the teacher\u2019s comments on a student\u2019s oral production",
+        "isCorrect": false
+      },
+      {
+        "text": "the teacher\u2019s feedback on a student\u2019s writing",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Within the interaction theory,____________________refers to the information which learners collect about the incorrectness of their grammar.",
+    "answers": [
+      {
+        "text": "positive evidence",
+        "isCorrect": false
+      },
+      {
+        "text": "negative evidence",
+        "isCorrect": false
+      },
+      {
+        "text": "authentic materials",
+        "isCorrect": true
+      },
+      {
+        "text": "reinforcement",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "____________________refers to the process of developing one\u2019s language towards a stage at which very little effort is made in its production.",
+    "answers": [
+      {
+        "text": "Fossilization",
+        "isCorrect": false
+      },
+      {
+        "text": "Internalization",
+        "isCorrect": false
+      },
+      {
+        "text": "Accuracy",
+        "isCorrect": false
+      },
+      {
+        "text": "Automatization",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "As its name suggests, the Grammar Translation Method is mainly based on translation from the native language into the second language. Which of the following activities is unlikely to be part of a typical Grammar Translation lesson?",
+    "answers": [
+      {
+        "text": "Asking students to read a text in their native language and answer comprehension questions",
+        "isCorrect": true
+      },
+      {
+        "text": "Asking students to translate vocabulary items from their native language into the target language",
+        "isCorrect": false
+      },
+      {
+        "text": "Explaining some structures from the text and comparing them to structures in the target language",
+        "isCorrect": false
+      },
+      {
+        "text": "Asking learners to prepare a dialog using the structure and vocabulary from the text and act it out",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "The Direct Method assumes that language develops through providing students with ample reading and speaking opportunities. Which of the following activities is unlikely to be part of a typical Direct Method lesson?",
+    "answers": [
+      {
+        "text": "Students read a text in the Target Language and answer comprehension questions",
+        "isCorrect": false
+      },
+      {
+        "text": "Students ask the teacher about the meaning of some words in the text. He explains them and provides an example for each word",
+        "isCorrect": true
+      },
+      {
+        "text": "Students extract a structure such as \"If only\u2026\" from the text, analyze it and use it in their own conversations",
+        "isCorrect": false
+      },
+      {
+        "text": "The teacher focuses on the pronunciation of some words from the text",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the following teaching techniques is NOT adopted in the Audio-Lingual Method?",
+    "answers": [
+      {
+        "text": "Memorizing",
+        "isCorrect": false
+      },
+      {
+        "text": "Drilling",
+        "isCorrect": false
+      },
+      {
+        "text": "Analyzing language",
+        "isCorrect": true
+      },
+      {
+        "text": "Choral repetition",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "In the Audio-Lingual Method, students are asked to repeat chunks of language or sentences multiple times because",
+    "answers": [
+      {
+        "text": "proponents of this method believe that language learning, like learning to walk, is a matter of habit formation",
+        "isCorrect": true
+      },
+      {
+        "text": "at the time when the method was used, there was no technological equipment to re-play audio tracks",
+        "isCorrect": false
+      },
+      {
+        "text": "this method assumes that language is composed of a set of expressions which we should memorize",
+        "isCorrect": false
+      },
+      {
+        "text": "proponents of this method believe that language use is controlled by isolating and memorizing a set of idioms and phrases which we usually repeat",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "After teaching the first unit in the textbook, the teacher decides to evaluate students\u2019 learning. Which of the following tests would best serve the objective of the teacher",
+    "answers": [
+      {
+        "text": "A diagnostic test",
+        "isCorrect": false
+      },
+      {
+        "text": "An achievement test",
+        "isCorrect": true
+      },
+      {
+        "text": "A proficiency test",
+        "isCorrect": false
+      },
+      {
+        "text": "A placement test",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "After the correction of students\u2019 production in a test of writing, the teacher observes that although the whole class has very low grades, two of her students performed significantly lower than the others. They barely completed writing a sentence of the required paragraph. The teacher then observed that one of these two students is physically disabled and the other lacks basic literacy skills. In this case which of the following decisions the teacher should take?",
+    "answers": [
+      {
+        "text": "Ignore the issue and continue with her teaching as usual since this is a test",
+        "isCorrect": false
+      },
+      {
+        "text": "Re-do the same test for the whole class following the same format from paragraph writing",
+        "isCorrect": false
+      },
+      {
+        "text": "Re-do the same test only for the two special needs students after the correction of the first test",
+        "isCorrect": false
+      },
+      {
+        "text": "Provide remediation and then design two different tests; one of them specially designed for the special needs students",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "For more equity and fairness in national exams, the Ministry of National Education has taken a set of procedures. Which of the following is NOT among the procedures which the ministry has taken ?",
+    "answers": [
+      {
+        "text": "Adapting the exam questions for students with special needs without affecting the content.",
+        "isCorrect": false
+      },
+      {
+        "text": "Giving students with special needs the chance to bring someone who can help in answering the exam.",
+        "isCorrect": true
+      },
+      {
+        "text": "Providing students with special needs with extra time during the exam.",
+        "isCorrect": false
+      },
+      {
+        "text": "Replacing tasks which require some writing with tasks which require no or little writing.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "After scoring a language test, the teacher discovered that the overwhelming majority of the students obtained a score higher than 15. The teacher thought that the students had cheated or the test was too easy. He then decided to administer a similar test targeting the same objectives. After the scoring of the second test, the students' scores differed completely from those of the first one. We conclude that the test",
+    "answers": [
+      {
+        "text": "Lacks practicality",
+        "isCorrect": false
+      },
+      {
+        "text": "Lacks reliability",
+        "isCorrect": true
+      },
+      {
+        "text": "Lacks content validity",
+        "isCorrect": false
+      },
+      {
+        "text": "Lacks authenticity",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "A True/False task appeared along with the reading text in a reading comprehension lesson. It included statements such as: Tommy lived in Sri Lanka. T/F? ; He was born in Sri Lanka. T/F? etc. Which of the following reading sub-skills does the True/False task mostly target?",
+    "answers": [
+      {
+        "text": "Predicting",
+        "isCorrect": false
+      },
+      {
+        "text": "Reading for the main idea",
+        "isCorrect": false
+      },
+      {
+        "text": "Scanning",
+        "isCorrect": true
+      },
+      {
+        "text": "Interpreting meaning",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "The Audio-Lingual Method is known for the centrality of giving students feedback on their performance during the lesson. In this method, which of the following terms is used as an appropriate equivalent to the term \"feedback\"?",
+    "answers": [
+      {
+        "text": "Stimulus",
+        "isCorrect": false
+      },
+      {
+        "text": "Response",
+        "isCorrect": false
+      },
+      {
+        "text": "Reinforcement",
+        "isCorrect": true
+      },
+      {
+        "text": "Reaction",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the following materials is widely used by the teachers of the Silent Way?",
+    "answers": [
+      {
+        "text": "Music player",
+        "isCorrect": false
+      },
+      {
+        "text": "The students' book",
+        "isCorrect": false
+      },
+      {
+        "text": "Colored pictures",
+        "isCorrect": false
+      },
+      {
+        "text": "Colored rods",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "In second language learning theories, mainly Krashen's Monitor Hypothesis, a \"high affective filter\"",
+    "answers": [
+      {
+        "text": "facilitates language learning",
+        "isCorrect": false
+      },
+      {
+        "text": "hinders language learning",
+        "isCorrect": true
+      },
+      {
+        "text": "allows learners to select only what they want to learn",
+        "isCorrect": false
+      },
+      {
+        "text": "allows teachers to filter items and teach only what students need",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "A task in a grammar lesson about the past simple included pairs of students asking each other how life has changed in the last 50 years. Question types included: \"What kind of home did people live in?\" \"How did people use to communicate?\"... At which stage of the grammar lesson is this task more likely to be introduced ?",
+    "answers": [
+      {
+        "text": "Presentation stage",
+        "isCorrect": false
+      },
+      {
+        "text": "Practice stage",
+        "isCorrect": false
+      },
+      {
+        "text": "Checking understanding stage",
+        "isCorrect": false
+      },
+      {
+        "text": "Production stage",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "In a textbook that adopts a communicative approach, one of the tasks included a pair-work activity where students role-play a tourist and a hotel front-desk clerk. The tourist is supposed to ask indirect questions about shopping, hotels, restaurants, etc. The clerk is supposed to answer the questions. Which of the following lessons is unlikely to be required for students to successfully do the task?",
+    "answers": [
+      {
+        "text": "Asking and answering Wh-questions",
+        "isCorrect": false
+      },
+      {
+        "text": "Asking for and giving opinions",
+        "isCorrect": false
+      },
+      {
+        "text": "Negotiating prices",
+        "isCorrect": false
+      },
+      {
+        "text": "Transforming sentences into the passive",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Maria, a secondary school teacher, observed that many of her students became much more active and engaged in tasks which involve some type of designing, drawing or visualizing processes and ideas. Which of the following pedagogical procedures would better cater for the learning needs of Maria's students?",
+    "answers": [
+      {
+        "text": "Using more reading, listening and writing activities.",
+        "isCorrect": false
+      },
+      {
+        "text": "Using more experiments and manipulating materials",
+        "isCorrect": false
+      },
+      {
+        "text": "Using more role plays, movements and acting out",
+        "isCorrect": false
+      },
+      {
+        "text": "Using more graphs, charts, maps and images",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Mourad is a student who enjoys learning with peers. He gets really involved and engaged in tasks which require group and pair work. Even when the teacher asks the class to do an exercise individually, Mourad usually looks for a partner to work with. He would turn to the student sitting next to him and start discussing the tasks or talking about the exercise. From his behavior, we can say that Mourad",
+    "answers": [
+      {
+        "text": "Is a disruptive student.",
+        "isCorrect": false
+      },
+      {
+        "text": "Learns better through touch and movement.",
+        "isCorrect": false
+      },
+      {
+        "text": "Is a special and naturalistic learner.",
+        "isCorrect": false
+      },
+      {
+        "text": "Learns better through interpersonal intelligence.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Although it is now established that most complex mental operations involve an interaction between the right and left hemispheres of the brain, it is claimed that by adolescence, different parts of the brain develop the capacity to specialize only in a set of cognitive, social or emotional functions. This process of brain specialization is scientifically referred to as",
+    "answers": [
+      {
+        "text": "Plasticity",
+        "isCorrect": false
+      },
+      {
+        "text": "Localization",
+        "isCorrect": false
+      },
+      {
+        "text": "Contextualization",
+        "isCorrect": false
+      },
+      {
+        "text": "Lateralization",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "As children mature, they develop knowledge of the world. This knowledge is stored in the brain as mental representations which are often referred to as schemas. In teaching reading comprehension, these mental representations are often believed to \u2026",
+    "answers": [
+      {
+        "text": "Hinder comprehension of texts in a second language",
+        "isCorrect": false
+      },
+      {
+        "text": "Facilitate comprehension of texts in a second language",
+        "isCorrect": true
+      },
+      {
+        "text": "Allow students to answer questions without reading the text",
+        "isCorrect": false
+      },
+      {
+        "text": "Help teachers teach reading without any prior planning",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "In a reading lesson, the teacher asked his students to read the title of the reading text: Do Families Spend a Lot of Time Together? and answer the following question: 'What do you think the answer to the question in the title will be?' The students have three possible answers to choose from. Which of the following reading sub-skills does this task target?",
+    "answers": [
+      {
+        "text": "Inferencing",
+        "isCorrect": false
+      },
+      {
+        "text": "Predicting",
+        "isCorrect": true
+      },
+      {
+        "text": "Skimming",
+        "isCorrect": false
+      },
+      {
+        "text": "Reading for specific information",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Neuroscientists, though not all of them, believe that the ability to learn faster and with little effort is limited to a certain age, beyond which learning a second language becomes very difficult and laborious. The period beyond which learning a new language is difficult is often referred to as",
+    "answers": [
+      {
+        "text": "The critical period.",
+        "isCorrect": true
+      },
+      {
+        "text": "The period of fossilization.",
+        "isCorrect": false
+      },
+      {
+        "text": "The sensory-motor period.",
+        "isCorrect": false
+      },
+      {
+        "text": "The period of concrete operations.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "There is clear evidence that a child acquiring her mother tongue develops the ability to use language not only correctly but also appropriately in different contexts. In second language teaching, the approach that was inspired by this evidence is",
+    "answers": [
+      {
+        "text": "Grammar Translation",
+        "isCorrect": false
+      },
+      {
+        "text": "the Audio-Lingual Method",
+        "isCorrect": false
+      },
+      {
+        "text": "Communicative Language Teaching",
+        "isCorrect": true
+      },
+      {
+        "text": "the Silent Way",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Mohamed, Meriem, Ali and Nada are all language students. Not all of them attend their language classes with the same incentive. Which of the four students is intrinsically motivated?",
+    "answers": [
+      {
+        "text": "Mohamed participates actively in his classes because he knows that part of the grade he will get by the end of the semester is devoted to participation in classroom activities",
+        "isCorrect": false
+      },
+      {
+        "text": "Meriem is an active student. She enjoys her English classes and she likes the language and how native speakers use it.",
+        "isCorrect": true
+      },
+      {
+        "text": "Ali always takes part in the lessons because he knows that his teacher usually meets his father and talks to him about his performance. So, he doesn't want to be reprimanded.",
+        "isCorrect": false
+      },
+      {
+        "text": "Nada is a student who is repeating the level. She got a very low mark in English last year and so she's doing her best to get a higher grade and pass the baccalaureate this year.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Mr Naji's students listen to the recording of a presentation at a conference. They are asked to evaluate the tone and pace of the delivery. The aim of the activity is to help students",
+    "answers": [
+      {
+        "text": "develop the verbal skills necessary to speak publicly.",
+        "isCorrect": false
+      },
+      {
+        "text": "interpret nonverbal clues.",
+        "isCorrect": false
+      },
+      {
+        "text": "recognize the rhetorical structure of oral presentations.",
+        "isCorrect": true
+      },
+      {
+        "text": "extract patterns of spoken discourse from different styles.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the following activities is more appropriate for group work?",
+    "answers": [
+      {
+        "text": "Drilling",
+        "isCorrect": false
+      },
+      {
+        "text": "Gap filling exercises",
+        "isCorrect": false
+      },
+      {
+        "text": "Playing doctor-patient roles",
+        "isCorrect": false
+      },
+      {
+        "text": "Jigsaw reading",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Nadia notices that one of her students has suddenly become unmotivated and has lost interest in class discussions and activities. After inquiring about this issue, Nadia found out that her student has recently been in some social instability and has family problems. Hence, the teacher concludes that she needs to provide her student with more care, stability, and security before she can get back on track. Which of the following theories better addresses the issue being discussed here?",
+    "answers": [
+      {
+        "text": "Piaget's theory of cognitive development",
+        "isCorrect": false
+      },
+      {
+        "text": "Gardner's theory of multiple intelligences",
+        "isCorrect": false
+      },
+      {
+        "text": "Maslow's needs theory",
+        "isCorrect": true
+      },
+      {
+        "text": "The Behaviorist theory",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Mrs. Rice's students are unable to recognize the major concepts in a reading text although they can derive specific details and information. Which of the following activities can Mrs. Rice do with her students to overcome the problem?",
+    "answers": [
+      {
+        "text": "Explain a set of new vocabulary in the text.",
+        "isCorrect": true
+      },
+      {
+        "text": "Simplify some syntactic structures.",
+        "isCorrect": false
+      },
+      {
+        "text": "Make them listen to an audio version of the text.",
+        "isCorrect": false
+      },
+      {
+        "text": "Make them summarize the main ideas in the text.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "The supervisor's notes on a teacher's performance draw the latter's attention to the necessity of prioritizing student-student interaction. Which of the following can favor this interaction pattern?",
+    "answers": [
+      {
+        "text": "Replacement drills",
+        "isCorrect": false
+      },
+      {
+        "text": "Gap filling activity",
+        "isCorrect": false
+      },
+      {
+        "text": "Reordering activity",
+        "isCorrect": true
+      },
+      {
+        "text": "Information gap activity",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "\"I want to get a score equal or higher than 70 so that I can get a place at the university.\" shows",
+    "answers": [
+      {
+        "text": "integrative motivation",
+        "isCorrect": false
+      },
+      {
+        "text": "instrumental motivation",
+        "isCorrect": true
+      },
+      {
+        "text": "social motivation",
+        "isCorrect": false
+      },
+      {
+        "text": "attitude motivation",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "When teaching grammar, the teacher always provides the learners with the rule at the very beginning of the lesson. Then, she asks them to apply it to different examples. The approach the teacher adopts is",
+    "answers": [
+      {
+        "text": "deductive",
+        "isCorrect": true
+      },
+      {
+        "text": "inductive",
+        "isCorrect": false
+      },
+      {
+        "text": "communicative",
+        "isCorrect": false
+      },
+      {
+        "text": "discovery",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "When teaching daily routines, a teacher asks one of his students to walk around and find six students who do not go to bed early on Friday. This is an example of",
+    "answers": [
+      {
+        "text": "a survey",
+        "isCorrect": true
+      },
+      {
+        "text": "a drill",
+        "isCorrect": false
+      },
+      {
+        "text": "a role play.",
+        "isCorrect": false
+      },
+      {
+        "text": "a simulation.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Differences in learning styles can make the same teaching method wonderful for some learners and terrible for others. The three major and predominant learning styles that are generally referred to in the literature are",
+    "answers": [
+      {
+        "text": "auditory, visual, kinesthetic.",
+        "isCorrect": true
+      },
+      {
+        "text": "sensory, reflective, communicative.",
+        "isCorrect": false
+      },
+      {
+        "text": "kinesthetic, musical, social.",
+        "isCorrect": false
+      },
+      {
+        "text": "logical, auditory, verbal.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "The process approach to writing focuses on the process of how ideas are developed and formulated to generate texts. Accordingly, writing is NOT",
+    "answers": [
+      {
+        "text": "creative",
+        "isCorrect": false
+      },
+      {
+        "text": "recursive",
+        "isCorrect": false
+      },
+      {
+        "text": "linear",
+        "isCorrect": true
+      },
+      {
+        "text": "meaning-oriented.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "When introducing a unit, the teacher asks students to individually write a few ideas about the topic of the unit. He then asks them to discuss their ideas in pairs. After that, they discuss the ideas in large groups. In this activity, the teacher is",
+    "answers": [
+      {
+        "text": "a planner",
+        "isCorrect": false
+      },
+      {
+        "text": "an organizer",
+        "isCorrect": true
+      },
+      {
+        "text": "an assessor",
+        "isCorrect": false
+      },
+      {
+        "text": "an editor",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "In line with the standards and competency-based education, teachers need to adopt performance assessment in the classroom. It requires learners to demonstrate what they know and are able to do through open-ended tasks. Which of the following is a performance assessment technique?",
+    "answers": [
+      {
+        "text": "Multiple choice questions",
+        "isCorrect": false
+      },
+      {
+        "text": "Describing a picture",
+        "isCorrect": true
+      },
+      {
+        "text": "Transforming sentences",
+        "isCorrect": false
+      },
+      {
+        "text": "Sentence rewriting",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the following is NOT a principle of communicative language teaching?",
+    "answers": [
+      {
+        "text": "Meaning",
+        "isCorrect": false
+      },
+      {
+        "text": "Appropriacy",
+        "isCorrect": false
+      },
+      {
+        "text": "Authenticity",
+        "isCorrect": false
+      },
+      {
+        "text": "Accuracy",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "The 5 C's of the standards-based approach to language teaching are",
+    "answers": [
+      {
+        "text": "communication, contrasting, connections, comparisons, communities.",
+        "isCorrect": false
+      },
+      {
+        "text": "communication, connections, cultures, comparisons, communities.",
+        "isCorrect": true
+      },
+      {
+        "text": "communication, connections, cultures, consciousness, communities.",
+        "isCorrect": false
+      },
+      {
+        "text": "communication, connections, cultures, comparisons, cooperation",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "In a vocabulary lesson, the teacher wants to teach the word 'abhorrence' in the context of the following sentence: 'My sister Kimmy shows a great abhorrence for crowds, whereas my little brother Michael loves to be the center of attention.' Which of the following techniques should the teacher use?",
+    "answers": [
+      {
+        "text": "Antonymy",
+        "isCorrect": false
+      },
+      {
+        "text": "Synonymy",
+        "isCorrect": false
+      },
+      {
+        "text": "Definition",
+        "isCorrect": false
+      },
+      {
+        "text": "Example",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Which of the following tasks can target the S of the SQ4R?",
+    "answers": [
+      {
+        "text": "Looking at a picture and a topic sentence and guessing the topic.",
+        "isCorrect": true
+      },
+      {
+        "text": "Reading the text and ordering the events chronologically.",
+        "isCorrect": false
+      },
+      {
+        "text": "Writing a short summary of the text.",
+        "isCorrect": false
+      },
+      {
+        "text": "Inferring the writer's attitude",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "In a listening lesson, a student raised his hand and expressed his frustration due to his inability to decipher all the words in the audio track. The teacher advised him not to bother himself with single words and should, instead, try to understand the general meaning of the passage as a whole, making use of what he already knows about the topic. This is a principle of the",
+    "answers": [
+      {
+        "text": "bottom-up approach",
+        "isCorrect": false
+      },
+      {
+        "text": "top-down approach",
+        "isCorrect": true
+      },
+      {
+        "text": "guided-reading approach",
+        "isCorrect": false
+      },
+      {
+        "text": "phonics approach",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "\"While preparing my lessons, I always try to have tasks in a logical and smooth order.\" The teacher here is concerned with",
+    "answers": [
+      {
+        "text": "interaction",
+        "isCorrect": false
+      },
+      {
+        "text": "sequencing",
+        "isCorrect": true
+      },
+      {
+        "text": "balancing",
+        "isCorrect": false
+      },
+      {
+        "text": "pacing",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "It is a speaking session today. At the end of the unit, the teacher is running a discussion with her 10 student class about the role of technology in people's life. What is the most appropriate seating arrangement for this activity",
+    "answers": [
+      {
+        "text": "Horseshoe",
+        "isCorrect": true
+      },
+      {
+        "text": "Double U-shape",
+        "isCorrect": false
+      },
+      {
+        "text": "Individual",
+        "isCorrect": false
+      },
+      {
+        "text": "Pairs",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Project-based learning offers learners opportunities to develop at various levels. Which of the following is NOT a characteristic of project-based learning?",
+    "answers": [
+      {
+        "text": "Students are offered lots of structural practice.",
+        "isCorrect": true
+      },
+      {
+        "text": "Students build knowledge through interaction.",
+        "isCorrect": false
+      },
+      {
+        "text": "Students acquire or develop cooperative learning skills.",
+        "isCorrect": false
+      },
+      {
+        "text": "Students are connected with other communities.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Mr Khaldi is playing a game with his students. They feel safe and satisfied as their teacher is showing love and respect for every one of them. This is a typical scenario of",
+    "answers": [
+      {
+        "text": "the Grammar Translation Method.",
+        "isCorrect": false
+      },
+      {
+        "text": "the Silent Way.",
+        "isCorrect": false
+      },
+      {
+        "text": "Cognitive Code Learning.",
+        "isCorrect": false
+      },
+      {
+        "text": "Suggestopedia",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "In the Audio-Lingual Method, teachers analyze learners' language production to highlight the problems or errors which might be due to the interference of the first language with the structures of the second one. This process which teachers undertake is called",
+    "answers": [
+      {
+        "text": "error analysis",
+        "isCorrect": true
+      },
+      {
+        "text": "interlanguage",
+        "isCorrect": false
+      },
+      {
+        "text": "interference",
+        "isCorrect": false
+      },
+      {
+        "text": "contrastive analysis!",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "While scoring students' test on writing, the teacher noticed that one of his students' handwriting is totally illegible. After inquiring about the student, the teacher discovered that she has a physical disability with her hand. Which of the following decisions should the teacher take?",
+    "answers": [
+      {
+        "text": "Give the student the grade she deserves for the writing",
+        "isCorrect": false
+      },
+      {
+        "text": "Give the student another chance to take the test",
+        "isCorrect": false
+      },
+      {
+        "text": "Ask another student to rewrite the text for the disabled student",
+        "isCorrect": true
+      },
+      {
+        "text": "Give the student an oral test which targets the same topic",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "The results of a language teacher's survey reveal that a large number of her students are endowed with some kind of naturalist intelligence. Which of the following activities would best serve this purpose?",
+    "answers": [
+      {
+        "text": "Taking students to a park to see animals",
+        "isCorrect": true
+      },
+      {
+        "text": "Sticking pictures of nature (animals, birds, etc.) around the classroom",
+        "isCorrect": false
+      },
+      {
+        "text": "Designing reading and speaking activities about nature",
+        "isCorrect": false
+      },
+      {
+        "text": "Inviting the teachers of science and geography to talk about their lessons",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "In a unit about 'Health', Mrs. Raji wants to teach the effects of eating fast food on teens' health. For this reason, she intends to use the pictures in the students' book, including one which shows an obese teenager. In case there is a student suffering from obesity in the classroom, what do you think the teacher should do?",
+    "answers": [
+      {
+        "text": "Teach the lesson as it is without any modification",
+        "isCorrect": false
+      },
+      {
+        "text": "Use the obese student to introduce the word 'obesity'",
+        "isCorrect": false
+      },
+      {
+        "text": "Ask the student to leave the classroom before showing the picture of obesity",
+        "isCorrect": false
+      },
+      {
+        "text": "Avoid using the picture and teach the word differently",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Which of the following skills dominates the early stages of language learning in the Total Physical Response method?",
+    "answers": [
+      {
+        "text": "Reading",
+        "isCorrect": false
+      },
+      {
+        "text": "Writing",
+        "isCorrect": false
+      },
+      {
+        "text": "Listening",
+        "isCorrect": true
+      },
+      {
+        "text": "Speaking",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Within the standards-based framework, while teaching a unit on 'Pollution', the teacher is targeting the 'Connections' area of the 5 Cs. Which of the following activities would best serve this objective?",
+    "answers": [
+      {
+        "text": "Asking students to compare the effects of pollution to those of deforestation",
+        "isCorrect": false
+      },
+      {
+        "text": "Asking students to interview the science teachers in their school about harmful chemicals",
+        "isCorrect": false
+      },
+      {
+        "text": "Asking students to interview the head of the local council about what they do to reduce the effects of pollution",
+        "isCorrect": true
+      },
+      {
+        "text": "Asking students to read a text about the causes and effects of pollution",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "\"Great job, Tony!\" In the context of the classroom, this reaction from a teacher is an instance of",
+    "answers": [
+      {
+        "text": "Positive interdependence",
+        "isCorrect": false
+      },
+      {
+        "text": "Scaffolding",
+        "isCorrect": false
+      },
+      {
+        "text": "Positive reinforcement",
+        "isCorrect": true
+      },
+      {
+        "text": "Eliciting",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "The Silent Way is mainly based on the principles of the Cognitive Approach. One of these principles is that 'teaching should be subordinated to learning'. This means that",
+    "answers": [
+      {
+        "text": "The teacher's role in the classroom is secondary",
+        "isCorrect": false
+      },
+      {
+        "text": "Teaching is learner-centered",
+        "isCorrect": true
+      },
+      {
+        "text": "The teacher does not have to plan his teaching",
+        "isCorrect": false
+      },
+      {
+        "text": "It is the students who decide on what to learn",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "In a reading lesson, after the students answered a couple of questions about the main ideas of the text, the teacher asked them to talk about what strategies they used to get their answers. The teacher is thus targeting students'\u2026",
+    "answers": [
+      {
+        "text": "Cognitive strategies",
+        "isCorrect": false
+      },
+      {
+        "text": "Metacognitive strategies",
+        "isCorrect": true
+      },
+      {
+        "text": "Social strategies",
+        "isCorrect": false
+      },
+      {
+        "text": "Affective strategies",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Kamal is an English language student. He often reflects on his performance, evaluates his achievements and keeps a diary on which he records his thoughts about his learning experience. Kamal is",
+    "answers": [
+      {
+        "text": "A logical learner",
+        "isCorrect": false
+      },
+      {
+        "text": "A linguistic learner",
+        "isCorrect": false
+      },
+      {
+        "text": "A tactile learner",
+        "isCorrect": false
+      },
+      {
+        "text": "An intrapersonal learner",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Rachida is a high school student. She has a good command of the language. She actively takes part in small closed group activities. However, she is always reluctant to participate in activities which expose her to the public. She has recently refused to represent her school in a regional public speaking contest. Her teachers conclude that Rachida requires a special treatment because she...",
+    "answers": [
+      {
+        "text": "is not intrinsically motivated",
+        "isCorrect": false
+      },
+      {
+        "text": "has a negative attitude to English.",
+        "isCorrect": false
+      },
+      {
+        "text": "is a field dependent learner.",
+        "isCorrect": false
+      },
+      {
+        "text": "has low self-esteem",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Reading something quickly to look for a specific piece of information is called:",
+    "answers": [
+      {
+        "text": "Inferencing",
+        "isCorrect": false
+      },
+      {
+        "text": "Scanning",
+        "isCorrect": true
+      },
+      {
+        "text": "Predicting",
+        "isCorrect": false
+      },
+      {
+        "text": "Skimming",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "A wrong use or usage of the target language, when the correct use or usage is not known to the speaker is defined as:",
+    "answers": [
+      {
+        "text": "Error",
+        "isCorrect": true
+      },
+      {
+        "text": "Mistake",
+        "isCorrect": false
+      },
+      {
+        "text": "Interference",
+        "isCorrect": false
+      },
+      {
+        "text": "Fossilization",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "The time when learners are exposed to the new language but don\u2019t have to produce it immediately is called:",
+    "answers": [
+      {
+        "text": "Passive age",
+        "isCorrect": false
+      },
+      {
+        "text": "Allocated time",
+        "isCorrect": false
+      },
+      {
+        "text": "Turn-taking",
+        "isCorrect": false
+      },
+      {
+        "text": "Silent period",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Regular evaluation of student's work done during the course where the marks achieved count towards the final result is termed:",
+    "answers": [
+      {
+        "text": "Atomistic evaluation",
+        "isCorrect": false
+      },
+      {
+        "text": "Holistic evaluation",
+        "isCorrect": false
+      },
+      {
+        "text": "Continuous assessment",
+        "isCorrect": true
+      },
+      {
+        "text": "Over-generalization",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Instructional practice of adapting a curriculum to diverse learners based on student readiness, interest, and learning styles is called:",
+    "answers": [
+      {
+        "text": "Syllabus",
+        "isCorrect": false
+      },
+      {
+        "text": "Contextualization",
+        "isCorrect": false
+      },
+      {
+        "text": "Metacognition",
+        "isCorrect": false
+      },
+      {
+        "text": "Differentiation",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "The learning theory that views language learning as a matter of habit formation is called:",
+    "answers": [
+      {
+        "text": "Cognitivism",
+        "isCorrect": false
+      },
+      {
+        "text": "Behaviourism",
+        "isCorrect": true
+      },
+      {
+        "text": "Constructivism",
+        "isCorrect": false
+      },
+      {
+        "text": "Constructionism",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Putting oneself into the place of another is:",
+    "answers": [
+      {
+        "text": "Role play",
+        "isCorrect": true
+      },
+      {
+        "text": "Peer work",
+        "isCorrect": false
+      },
+      {
+        "text": "Negotiation",
+        "isCorrect": false
+      },
+      {
+        "text": "Turn-taking",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "The ability to use and understand language is called:",
+    "answers": [
+      {
+        "text": "Naturalistic intelligence",
+        "isCorrect": false
+      },
+      {
+        "text": "Kinesthetic intelligence",
+        "isCorrect": false
+      },
+      {
+        "text": "Linguistic intelligence",
+        "isCorrect": true
+      },
+      {
+        "text": "Inter-personal intelligence",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Writing that is controlled in order to reduce the possibility of error is termed:",
+    "answers": [
+      {
+        "text": "Parallel writing",
+        "isCorrect": false
+      },
+      {
+        "text": "Free writing",
+        "isCorrect": false
+      },
+      {
+        "text": "Guided writing",
+        "isCorrect": true
+      },
+      {
+        "text": "Dicto comp",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "The intensive and repetitive practice of the target language which may be choral or individual is called:",
+    "answers": [
+      {
+        "text": "Fluency",
+        "isCorrect": false
+      },
+      {
+        "text": "Accuracy",
+        "isCorrect": false
+      },
+      {
+        "text": "Correctness",
+        "isCorrect": false
+      },
+      {
+        "text": "Drilling",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "The evaluation of student work based on a set of criteria is called:",
+    "answers": [
+      {
+        "text": "Analytic scoring",
+        "isCorrect": true
+      },
+      {
+        "text": "Holistic scoring",
+        "isCorrect": false
+      },
+      {
+        "text": "Marking",
+        "isCorrect": false
+      },
+      {
+        "text": "Grading",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Reliance on basic blocs of language such as words and sentences to make sense of a message is termed:",
+    "answers": [
+      {
+        "text": "Student-centered approach",
+        "isCorrect": false
+      },
+      {
+        "text": "Bottom-up approach",
+        "isCorrect": true
+      },
+      {
+        "text": "Teacher-centered approach",
+        "isCorrect": false
+      },
+      {
+        "text": "Top-down approach",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "What refers to people working or studying at the same level or in the same grouping is:",
+    "answers": [
+      {
+        "text": "Heterogeneous Grouping",
+        "isCorrect": false
+      },
+      {
+        "text": "Intergroup",
+        "isCorrect": false
+      },
+      {
+        "text": "Peer group",
+        "isCorrect": true
+      },
+      {
+        "text": "Pair work",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "The assessment designed to measure and compare individual student performances or test results to those of an appropriate peer group at the classroom, local, or national level is:",
+    "answers": [
+      {
+        "text": "Norm-referenced assessment",
+        "isCorrect": false
+      },
+      {
+        "text": "Criteria-referenced assessment",
+        "isCorrect": true
+      },
+      {
+        "text": "Formative assessment",
+        "isCorrect": false
+      },
+      {
+        "text": "Summative assessment",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "The skill of pacing one's activities, tasks, and exercises is termed:",
+    "answers": [
+      {
+        "text": "Behaviour management",
+        "isCorrect": false
+      },
+      {
+        "text": "Time-management",
+        "isCorrect": true
+      },
+      {
+        "text": "Classroom management",
+        "isCorrect": false
+      },
+      {
+        "text": "Classroom organization",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "The strategy that involves looking at text features (illustrations, titles, headings, tables\u2026.) and helps understand the reading text is called:",
+    "answers": [
+      {
+        "text": "Prompting",
+        "isCorrect": false
+      },
+      {
+        "text": "Probing",
+        "isCorrect": false
+      },
+      {
+        "text": "Seeking clarification",
+        "isCorrect": false
+      },
+      {
+        "text": "Previewing",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Exercise, activities or tasks used in the language classroom for realizing lesson objectives are labelled:",
+    "answers": [
+      {
+        "text": "Approaches",
+        "isCorrect": false
+      },
+      {
+        "text": "Methods",
+        "isCorrect": false
+      },
+      {
+        "text": "Techniques",
+        "isCorrect": true
+      },
+      {
+        "text": "Outcomes",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Questions that can be answered by locating information explicitly contained in a text are called:",
+    "answers": [
+      {
+        "text": "Factual questions",
+        "isCorrect": true
+      },
+      {
+        "text": "Interpretive questions",
+        "isCorrect": false
+      },
+      {
+        "text": "Evaluative questions",
+        "isCorrect": false
+      },
+      {
+        "text": "Inferential questions",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "A set of symbols teachers use to indicate errors in student writing is called:",
+    "answers": [
+      {
+        "text": "Teacher correction",
+        "isCorrect": false
+      },
+      {
+        "text": "Correction code",
+        "isCorrect": true
+      },
+      {
+        "text": "Self-correction",
+        "isCorrect": false
+      },
+      {
+        "text": "Peer correction",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "The technique for developing listening skills where students listen to sections of a listening passage in the wrong order and have to decide on the correct order is termed:",
+    "answers": [
+      {
+        "text": "Jigsaw listening",
+        "isCorrect": true
+      },
+      {
+        "text": "Listening for gist",
+        "isCorrect": false
+      },
+      {
+        "text": "Listening for details",
+        "isCorrect": false
+      },
+      {
+        "text": "Listening for specific information",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "The approach where examples are given and the students derive the rule from practice is:",
+    "answers": [
+      {
+        "text": "Inductive learning",
+        "isCorrect": true
+      },
+      {
+        "text": "Observational learning",
+        "isCorrect": false
+      },
+      {
+        "text": "Deductive learning",
+        "isCorrect": false
+      },
+      {
+        "text": "Active Learning",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Learning a language because you enjoy it and find it interesting is referred to as:",
+    "answers": [
+      {
+        "text": "Instrumental motivation",
+        "isCorrect": false
+      },
+      {
+        "text": "Integrative motivation",
+        "isCorrect": false
+      },
+      {
+        "text": "Extrinsic motivation",
+        "isCorrect": false
+      },
+      {
+        "text": "Intrinsic motivation",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "The process of absorbing language naturally and without conscious effort is named:",
+    "answers": [
+      {
+        "text": "Consciousness-raising",
+        "isCorrect": false
+      },
+      {
+        "text": "Acquisition",
+        "isCorrect": true
+      },
+      {
+        "text": "Information gap",
+        "isCorrect": false
+      },
+      {
+        "text": "Learning",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "The test that measures the test takers\u2019 strengths and weaknesses and which is usually given at the beginning of a course is",
+    "answers": [
+      {
+        "text": "A placement test",
+        "isCorrect": false
+      },
+      {
+        "text": "An aptitude test",
+        "isCorrect": false
+      },
+      {
+        "text": "An achievement test",
+        "isCorrect": false
+      },
+      {
+        "text": "A diagnostic test",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "The general concepts expressed through language are called",
+    "answers": [
+      {
+        "text": "Functions",
+        "isCorrect": false
+      },
+      {
+        "text": "Objectives",
+        "isCorrect": false
+      },
+      {
+        "text": "Goals",
+        "isCorrect": false
+      },
+      {
+        "text": "Notions",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "\u2026.account for how learners cope with learning problems, accumulate new language rules and how they automatize existing ones.",
+    "answers": [
+      {
+        "text": "Learning strategies",
+        "isCorrect": true
+      },
+      {
+        "text": "Learning stages",
+        "isCorrect": false
+      },
+      {
+        "text": "Study skills",
+        "isCorrect": false
+      },
+      {
+        "text": "Multiple intelligences",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "The level of difficulty in a written passage is named",
+    "answers": [
+      {
+        "text": "Legibility",
+        "isCorrect": false
+      },
+      {
+        "text": "Intelligibility",
+        "isCorrect": false
+      },
+      {
+        "text": "Readability",
+        "isCorrect": true
+      },
+      {
+        "text": "Intertextuality",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "The effect or change that results from an instructional activity or program is named",
+    "answers": [
+      {
+        "text": "Coherence",
+        "isCorrect": false
+      },
+      {
+        "text": "Input",
+        "isCorrect": false
+      },
+      {
+        "text": "Skill",
+        "isCorrect": true
+      },
+      {
+        "text": "Strategy",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": ". \u2026sets the context of a new lesson or reviews what was taught in previous lessons.",
+    "answers": [
+      {
+        "text": "Warm up",
+        "isCorrect": true
+      },
+      {
+        "text": "Practice",
+        "isCorrect": false
+      },
+      {
+        "text": "Recycling",
+        "isCorrect": false
+      },
+      {
+        "text": "Focus",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "The\u2026..involves learners at all levels and focuses on their personalities as a whole.",
+    "answers": [
+      {
+        "text": "Humanistic approach",
+        "isCorrect": true
+      },
+      {
+        "text": "Collaborative group",
+        "isCorrect": false
+      },
+      {
+        "text": "Individualization of instruction",
+        "isCorrect": false
+      },
+      {
+        "text": "Eclectic approach",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "A teacher in the class is",
+    "answers": [
+      {
+        "text": "The president of the group",
+        "isCorrect": false
+      },
+      {
+        "text": "A director of the group",
+        "isCorrect": false
+      },
+      {
+        "text": "A leader and guide of the group",
+        "isCorrect": true
+      },
+      {
+        "text": "Referee and boss of the group",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "The first important step in teaching is",
+    "answers": [
+      {
+        "text": "Planning beforehand",
+        "isCorrect": false
+      },
+      {
+        "text": "knowing the background of students",
+        "isCorrect": true
+      },
+      {
+        "text": "Organizing material to be taught",
+        "isCorrect": false
+      },
+      {
+        "text": "Learning students\u2019 names by heart",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "By which of the following methods the true evaluation of students is possible",
+    "answers": [
+      {
+        "text": "Evaluation at the end of a course",
+        "isCorrect": false
+      },
+      {
+        "text": "Evaluation twice a year",
+        "isCorrect": false
+      },
+      {
+        "text": "Continuous evaluation",
+        "isCorrect": true
+      },
+      {
+        "text": "Evaluation at the beginning of a course",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "The essence of an effective classroom environment is",
+    "answers": [
+      {
+        "text": "A variety of teaching aids",
+        "isCorrect": false
+      },
+      {
+        "text": "lively student-teacher interaction",
+        "isCorrect": true
+      },
+      {
+        "text": "Pin-drop silence",
+        "isCorrect": false
+      },
+      {
+        "text": "Strict discipline",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "The various teaching methods and theories used to teach English are called",
+    "answers": [
+      {
+        "text": "Approaches",
+        "isCorrect": true
+      },
+      {
+        "text": "Curricula",
+        "isCorrect": false
+      },
+      {
+        "text": "Teaching aids",
+        "isCorrect": false
+      },
+      {
+        "text": "Techniques",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Most audio-lingual materials are designed to help learners develop",
+    "answers": [
+      {
+        "text": "Reading and writing",
+        "isCorrect": false
+      },
+      {
+        "text": "Spelling and punctuation",
+        "isCorrect": false
+      },
+      {
+        "text": "Listening and speaking",
+        "isCorrect": true
+      },
+      {
+        "text": "Grammar and vocabulary",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "The language used to talk about language is called",
+    "answers": [
+      {
+        "text": "Whole language",
+        "isCorrect": false
+      },
+      {
+        "text": "Meta-language",
+        "isCorrect": true
+      },
+      {
+        "text": "Target language",
+        "isCorrect": false
+      },
+      {
+        "text": "Natural language",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "According to \u201cschema theory\u201d, learners draw from their own \u2026to understand a reading text.",
+    "answers": [
+      {
+        "text": "Vocabulary lists",
+        "isCorrect": false
+      },
+      {
+        "text": "Background knowledge",
+        "isCorrect": true
+      },
+      {
+        "text": "Grammar knowledge",
+        "isCorrect": false
+      },
+      {
+        "text": "Learning",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Words divided in grammar according to their use such as noun, verb, adverb or adjective, are called",
+    "answers": [
+      {
+        "text": "Parts of speech",
+        "isCorrect": true
+      },
+      {
+        "text": "Phrases",
+        "isCorrect": false
+      },
+      {
+        "text": "Vocabulary groupings",
+        "isCorrect": false
+      },
+      {
+        "text": "Base forms",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "When you teach students how to look for specific details in a text you are showing them how to",
+    "answers": [
+      {
+        "text": "Skip",
+        "isCorrect": false
+      },
+      {
+        "text": "Scan",
+        "isCorrect": true
+      },
+      {
+        "text": "Skim",
+        "isCorrect": false
+      },
+      {
+        "text": "Select",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "When choosing extensive reading materials for English language learners, the level should be",
+    "answers": [
+      {
+        "text": "Much higher than they are capable of reading",
+        "isCorrect": false
+      },
+      {
+        "text": "Slightly higher than they are capable of reading",
+        "isCorrect": true
+      },
+      {
+        "text": "Slightly lower than they are capable of reading",
+        "isCorrect": false
+      },
+      {
+        "text": "Similar to their native language level",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the following would be most suitable for an interactive writing activity",
+    "answers": [
+      {
+        "text": "Writing a script",
+        "isCorrect": false
+      },
+      {
+        "text": "Writing a report",
+        "isCorrect": false
+      },
+      {
+        "text": "Writing your resume",
+        "isCorrect": false
+      },
+      {
+        "text": "Writing a chain story",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Which of these activities is communicative, not controlled practice",
+    "answers": [
+      {
+        "text": "An oral drill",
+        "isCorrect": false
+      },
+      {
+        "text": "An information-gap activity",
+        "isCorrect": true
+      },
+      {
+        "text": "A dictation",
+        "isCorrect": false
+      },
+      {
+        "text": "A gap-filling activity",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "A fossilized error is an error that",
+    "answers": [
+      {
+        "text": "Is typical of beginners but made by advanced learners",
+        "isCorrect": false
+      },
+      {
+        "text": "A learner has made so often that they believe it is correct",
+        "isCorrect": true
+      },
+      {
+        "text": "A learner makes even though they know the right answer",
+        "isCorrect": false
+      },
+      {
+        "text": "A learner makes because of his/her native language",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "To have effective classroom discipline, the teacher must remember to incorporate all of these, except",
+    "answers": [
+      {
+        "text": "Addressing the causes of the misbehavior",
+        "isCorrect": false
+      },
+      {
+        "text": "Preserving the dignity of the learner",
+        "isCorrect": false
+      },
+      {
+        "text": "Providing private direction",
+        "isCorrect": false
+      },
+      {
+        "text": "Criticizing misbehavior in public",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "If a teacher compliments a student or class on how well they behaved, this teacher is",
+    "answers": [
+      {
+        "text": "Reinforcing productive behavior",
+        "isCorrect": true
+      },
+      {
+        "text": "Using proximity control",
+        "isCorrect": false
+      },
+      {
+        "text": "Redirecting learner attention",
+        "isCorrect": false
+      },
+      {
+        "text": "Providing situational assistance",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "If a person is able to communicate well with others, they may be thought of as having",
+    "answers": [
+      {
+        "text": "Intrapersonal intelligence",
+        "isCorrect": false
+      },
+      {
+        "text": "Interpersonal intelligence",
+        "isCorrect": true
+      },
+      {
+        "text": "Spatial Intelligence",
+        "isCorrect": false
+      },
+      {
+        "text": "Emotional intelligence",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Teaching portfolios should contain",
+    "answers": [
+      {
+        "text": "Teacher prepared material",
+        "isCorrect": false
+      },
+      {
+        "text": "Contributions of observers",
+        "isCorrect": false
+      },
+      {
+        "text": "Examples of learners\u2019 work",
+        "isCorrect": false
+      },
+      {
+        "text": "All of these",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "To help prevent discipline problems, teachers should",
+    "answers": [
+      {
+        "text": "Be tough",
+        "isCorrect": false
+      },
+      {
+        "text": "Plan thoroughly",
+        "isCorrect": false
+      },
+      {
+        "text": "Establish sound management policies",
+        "isCorrect": false
+      },
+      {
+        "text": "B &C",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "In a classroom activity, students ask their classmates when their birthdays are and write the answers down. Then, they try to find different students born the same month of the year. The teacher here is adopting",
+    "answers": [
+      {
+        "text": "the grammar translation method",
+        "isCorrect": false
+      },
+      {
+        "text": "the silent way",
+        "isCorrect": false
+      },
+      {
+        "text": "total physical response",
+        "isCorrect": false
+      },
+      {
+        "text": "communicative language teaching",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Choose the correct order (A, B, C or D) of the following teaching steps.\nI. reviewing material\nII. practising language\nIII. evaluating learners\nIV. formulating objectives\nV. presenting materials",
+    "answers": [
+      {
+        "text": "I / II / III / IV / V",
+        "isCorrect": false
+      },
+      {
+        "text": "II / I / III / V / IV",
+        "isCorrect": false
+      },
+      {
+        "text": "V/ IV / III / I / II",
+        "isCorrect": false
+      },
+      {
+        "text": "IV / I / V / II / III",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "If remarks are passed by a student on you, as a teacher, you will",
+    "answers": [
+      {
+        "text": "punish him / her.",
+        "isCorrect": false
+      },
+      {
+        "text": "take revenge while correcting his / her test copies.",
+        "isCorrect": false
+      },
+      {
+        "text": "be impartial at the time of evaluation.",
+        "isCorrect": true
+      },
+      {
+        "text": "Expel him / her from the classroom.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the following descriptions of adolescent behavior is an example of how the \nbehaviorist learning theory explains human development ?",
+    "answers": [
+      {
+        "text": "A student sees others getting higher grades and more praise and then begins studying hard.",
+        "isCorrect": false
+      },
+      {
+        "text": "A student sees struggling students getting more teacher attention and stops studying hard.",
+        "isCorrect": false
+      },
+      {
+        "text": "A student sees struggling students get less attention and decides to continue studying hard.",
+        "isCorrect": false
+      },
+      {
+        "text": "A student sees high grades and praise coming from the teacher and continues studying hard.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "While giving a lesson, some students start disturbing their classmates. The teacher should",
+    "answers": [
+      {
+        "text": "penalise those causing disturbance.",
+        "isCorrect": false
+      },
+      {
+        "text": "keep quiet for a while and then go on.",
+        "isCorrect": true
+      },
+      {
+        "text": "not bother with what is happening in the class.",
+        "isCorrect": false
+      },
+      {
+        "text": "stop the lesson and give a quiz.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the following is not a characteristic of a good test?",
+    "answers": [
+      {
+        "text": "Reliability",
+        "isCorrect": false
+      },
+      {
+        "text": "Validity",
+        "isCorrect": false
+      },
+      {
+        "text": "Complexity",
+        "isCorrect": true
+      },
+      {
+        "text": "Objectivity",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the following is not a viable testing format?",
+    "answers": [
+      {
+        "text": "Guessing",
+        "isCorrect": true
+      },
+      {
+        "text": "Matching",
+        "isCorrect": false
+      },
+      {
+        "text": "Categorizing",
+        "isCorrect": false
+      },
+      {
+        "text": "Rewriting",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "In a theory of reading comprehension, schemata refers to the knowledge which the reader",
+    "answers": [
+      {
+        "text": "gained through planning of reading comprehension lessons.",
+        "isCorrect": false
+      },
+      {
+        "text": "has previously acquired about the topic.",
+        "isCorrect": true
+      },
+      {
+        "text": "has gained from reading a text.",
+        "isCorrect": false
+      },
+      {
+        "text": "has modified as a result of reading a text.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "In a fluency-oriented activity, the focus is more on",
+    "answers": [
+      {
+        "text": "effective communication",
+        "isCorrect": true
+      },
+      {
+        "text": "appropriate vocabulary",
+        "isCorrect": false
+      },
+      {
+        "text": "correct sentence structure",
+        "isCorrect": false
+      },
+      {
+        "text": "accurate pronunciation",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "A teacher asks students to look at the text quickly to get a general understanding. This is called",
+    "answers": [
+      {
+        "text": "scanning",
+        "isCorrect": false
+      },
+      {
+        "text": "analysing",
+        "isCorrect": false
+      },
+      {
+        "text": "skimming",
+        "isCorrect": true
+      },
+      {
+        "text": "summarizing",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "An achievement test assesses",
+    "answers": [
+      {
+        "text": "how well learners have learnt what has been taught in class.",
+        "isCorrect": true
+      },
+      {
+        "text": "whether students are ready to start learning a language.",
+        "isCorrect": false
+      },
+      {
+        "text": "whether students can sit for a public exam.",
+        "isCorrect": false
+      },
+      {
+        "text": "which course students should take at the beginning of the year.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "The current TEFL Moroccan textbooks are organised according to",
+    "answers": [
+      {
+        "text": "functions",
+        "isCorrect": false
+      },
+      {
+        "text": "structures",
+        "isCorrect": false
+      },
+      {
+        "text": "topics",
+        "isCorrect": true
+      },
+      {
+        "text": "situations",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the following components is not part of the Moroccan Baccalaureate specifications?",
+    "answers": [
+      {
+        "text": "Syllabus breakdown",
+        "isCorrect": false
+      },
+      {
+        "text": "Test techniques",
+        "isCorrect": false
+      },
+      {
+        "text": "Teaching methods",
+        "isCorrect": true
+      },
+      {
+        "text": "Lists of rubrics",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the following official documents includes the teaching of English language skills?",
+    "answers": [
+      {
+        "text": "The national Baccalaureate exam specifications.",
+        "isCorrect": false
+      },
+      {
+        "text": "The pedagogical guidelines.",
+        "isCorrect": true
+      },
+      {
+        "text": "The national charter of education.",
+        "isCorrect": false
+      },
+      {
+        "text": "The ministerial decree regulating the school year.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "\u201cSecond year Baccalaureate learners will be able to speak with their interlocutors in a culturally appropriate way.\u201d (TEFL  guidelines, 2007, p15). This is an example of a",
+    "answers": [
+      {
+        "text": "Learning objective",
+        "isCorrect": false
+      },
+      {
+        "text": "content standard",
+        "isCorrect": true
+      },
+      {
+        "text": "performance indicator",
+        "isCorrect": false
+      },
+      {
+        "text": "proficiency standard",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Drills are defined as\u2026",
+    "answers": [
+      {
+        "text": "Objects like pens, fruits, clothes...etc, which a teacher  can use to present new vocabulary items.",
+        "isCorrect": false
+      },
+      {
+        "text": "Texts, audio-tracks, videos etc., which are originally created for real-life uses.",
+        "isCorrect": false
+      },
+      {
+        "text": "Techniques used to evaluate learners' knowledge such as a quiz or a test.",
+        "isCorrect": false
+      },
+      {
+        "text": "Exercises such as repetition or sentence transformation, which are meant to practice a certain language item.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Functions",
+    "answers": [
+      {
+        "text": "Techniques used to evaluate learners' knowledge such as a quiz or a test.",
+        "isCorrect": false
+      },
+      {
+        "text": "Exercises which are meant to practice a certain language item such as repetition or sentence transformation.",
+        "isCorrect": false
+      },
+      {
+        "text": "Language items such as 'telling time' or 'speaking about distance'.",
+        "isCorrect": false
+      },
+      {
+        "text": "Language items such as 'requesting', 'asking for advice' and 'suggesting'.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Miming is mostly used to\u2026",
+    "answers": [
+      {
+        "text": "show what a character does by using gestures and body movements.",
+        "isCorrect": true
+      },
+      {
+        "text": "test students' productive skills formally.",
+        "isCorrect": false
+      },
+      {
+        "text": "teach the spelling and pronuciation of  vocabulry items.",
+        "isCorrect": false
+      },
+      {
+        "text": "preteach vocabulary of a challenging text.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Authentic materials",
+    "answers": [
+      {
+        "text": "Objects like pens, fruits, clothes...etc, which a teacher  can use to present new vocabulary items",
+        "isCorrect": false
+      },
+      {
+        "text": "Texts, audio-tracks, videos etc., which are originally created for real-life uses.",
+        "isCorrect": true
+      },
+      {
+        "text": "Techniques used to evaluate learners' knowledge such as a quiz or a test.",
+        "isCorrect": false
+      },
+      {
+        "text": "Exercises which are meant to practice a certain language item such as repetition or sentence transformation.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Notions",
+    "answers": [
+      {
+        "text": "Objects like pens, fruits, clothes...etc, which a teacher  can use to present new vocabulary items",
+        "isCorrect": false
+      },
+      {
+        "text": "Techniques used to evaluate learners' knowledge such as a quiz or a test.",
+        "isCorrect": false
+      },
+      {
+        "text": "Exercises which are meant to practice a certain language item such as repetition or sentence transformation.",
+        "isCorrect": false
+      },
+      {
+        "text": "Language items such as 'telling time' or 'speaking about distance'.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Realia",
+    "answers": [
+      {
+        "text": "Objects like pens, fruits, clothes...etc, which a teacher  can use to present new vocabulary items",
+        "isCorrect": true
+      },
+      {
+        "text": "Texts, audio-tracks, videos etc., which are originally created for real-life uses.",
+        "isCorrect": false
+      },
+      {
+        "text": "Techniques used to evaluate learners' knowledge such as a quiz or a test.",
+        "isCorrect": false
+      },
+      {
+        "text": "Exercises which are meant to practice a certain language item such as repetition or sentence transformation.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "The teacher asks each student to read an extract from a novel by Hemingway. After this, the class is asked to translate the first two paragraphs into French. The teacher helps the students by writing the words they don't know in French on the board. When the students finish the translation, they are asked to read their translated texts. In the end the students are asked to answer some comprehension questions in English and write down the answers.",
+    "answers": [
+      {
+        "text": "The Direct Method",
+        "isCorrect": false
+      },
+      {
+        "text": "The audio-Lingual Method",
+        "isCorrect": false
+      },
+      {
+        "text": "Total Physical Response",
+        "isCorrect": false
+      },
+      {
+        "text": "Grammar Translation method",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "The teacher starts the lesson by writing the title 'Looking at a Map' on the board. He then sticks a map of USA on the board and starts asking the class questions about the map. The teacher asks first: 'Are we looking at a map of Canada?'. The class says 'No'. The teacher reminds them that they should answer in complete sentences. So, the students all answered 'No, we are not looking at a map of Canada. We are looking at a map of the United States'. Each time the teacher adds other elements to the map, he asks further questions. The teacher invites the students to ask more questions about the map. In the next activity, the teacher asks the students questions which target the use of the prepositions 'next to', 'behind', 'in front of etc.,. Finally, the students are asked to do a gap-filling exercise using the target prepositions. Whenever they ask him about the meaning of a word, he draws what it means on the board or shows an object to illustrate it. The use of L1 is not allowed.",
+    "answers": [
+      {
+        "text": "The Direct Method",
+        "isCorrect": true
+      },
+      {
+        "text": "The audio-Lingual Method",
+        "isCorrect": false
+      },
+      {
+        "text": "Suggestopedia",
+        "isCorrect": false
+      },
+      {
+        "text": "Total Physical Response",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "The students first listen to a dialog, which is repeated many times. The teacher explains the situation in the dialog. The teacher then asks the whole class to listen and repeat each line of the dialog until they have memorized the whole dialog. The teacher relies on backward build-up drills to help the students memorize the dialog line by line. After they have memorized the dialog, pairs of students are asked to come to the front of the class and rehearse the dialog once more. The teacher extracts 'I'm going to...\" from the dialog, provides further example and asks the class to do related exercises.",
+    "answers": [
+      {
+        "text": "The Direct Method",
+        "isCorrect": false
+      },
+      {
+        "text": "The audio-Lingual Method",
+        "isCorrect": true
+      },
+      {
+        "text": "Total Physical Response",
+        "isCorrect": false
+      },
+      {
+        "text": "Grammar Translation method",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Using a metal pointer, the teacher points to a chart hanging on the blackboard. The chart contains different sounds of the English language and each category of sounds (vowels and consonants) is written in a different color. The teacher points to the first sound two times while everybody is silent. The third time the teacher points, he says /\u00e6/. The teacher does the same thing for all the other sounds before asking the students to repeat after him. He keeps repeating and demonstrating each sound until he is sure that the students know how to pronounce it. The teacher points to some objects in the classroom and the students say how they are pronounced.",
+    "answers": [
+      {
+        "text": "The audio-Lingual Method",
+        "isCorrect": false
+      },
+      {
+        "text": "Suggestopedia",
+        "isCorrect": false
+      },
+      {
+        "text": "Grammar Translation method",
+        "isCorrect": false
+      },
+      {
+        "text": "The Silent Way",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "An example of a 'substitution exercice' is an exercise in which students",
+    "answers": [
+      {
+        "text": "Read a story and answer questions using the simple past",
+        "isCorrect": false
+      },
+      {
+        "text": "Fill in gaps with the correct form of the given words",
+        "isCorrect": false
+      },
+      {
+        "text": "Put the verbs between brackets in the correct form",
+        "isCorrect": false
+      },
+      {
+        "text": "Use ' there are' instead of 'there is' in given sentences",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "In a 'choral repetetion' activity, students",
+    "answers": [
+      {
+        "text": "Write down what the teacher is saying before they re-say it to others",
+        "isCorrect": false
+      },
+      {
+        "text": "repeat what the teacher is saying together as a whole class",
+        "isCorrect": true
+      },
+      {
+        "text": "orally repeat what the teacher is saying one after another",
+        "isCorrect": false
+      },
+      {
+        "text": "Try to remember and repeat what the teacher said during the last session",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "The concept of 'washback effect' is used to refer to",
+    "answers": [
+      {
+        "text": "The effect of not having enough prior knowledge on text comprehension",
+        "isCorrect": false
+      },
+      {
+        "text": "The effect of an assessment procedure on learning and teaching",
+        "isCorrect": true
+      },
+      {
+        "text": "The negative effect of thinking about one's past on learning",
+        "isCorrect": false
+      },
+      {
+        "text": "The positive effects of memorizing vocabulary on language performance",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "A follow up of the unsatisfactory performance of learners in a diagnostic test is to",
+    "answers": [
+      {
+        "text": "Re-test the learners using the same items again in order to help them perform better",
+        "isCorrect": false
+      },
+      {
+        "text": "Sort out students into different ability groups and test them again using a different testing format",
+        "isCorrect": false
+      },
+      {
+        "text": "Prepare a new test with different items and administer it to the whole class again",
+        "isCorrect": false
+      },
+      {
+        "text": "Design activities which focus on problematic areas before teaching new content",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Using a word or a construction in a meaningful and communicative sequence is called",
+    "answers": [
+      {
+        "text": "Brainstorming",
+        "isCorrect": false
+      },
+      {
+        "text": "Sequencing",
+        "isCorrect": false
+      },
+      {
+        "text": "Contextualizing",
+        "isCorrect": true
+      },
+      {
+        "text": "Pacing",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "When a learner does not have the necessary word to describe an object or talk about a concept, he tries to use a whole phrase or sentence or describes the object/ concept in a different way. An example is saying 'the thing we use to eat food with' for the word 'spoon'. Which of the following communication strategies is the learner using in this case?",
+    "answers": [
+      {
+        "text": "Code- switching",
+        "isCorrect": false
+      },
+      {
+        "text": "Word Coining",
+        "isCorrect": false
+      },
+      {
+        "text": "Borrowing",
+        "isCorrect": false
+      },
+      {
+        "text": "Circumlocution",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "An instrumentally motivated student is a student who is motivated to learn English because...",
+    "answers": [
+      {
+        "text": "he frequently goes to the States in summer.",
+        "isCorrect": false
+      },
+      {
+        "text": "His father has hotels which he will manage once he completes his studies.",
+        "isCorrect": true
+      },
+      {
+        "text": "He studies at a university where most students use only English",
+        "isCorrect": false
+      },
+      {
+        "text": "He has many English friends on Facebook and he usually interacts with them",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "When you ask learners to read a text and choose the most appropriate main idea for the text, the target reading strategy is",
+    "answers": [
+      {
+        "text": "Scanning",
+        "isCorrect": false
+      },
+      {
+        "text": "Skimming",
+        "isCorrect": true
+      },
+      {
+        "text": "Inferring",
+        "isCorrect": false
+      },
+      {
+        "text": "Hypothesizing",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the following is an example of a pre-reading activity",
+    "answers": [
+      {
+        "text": "Distinguishing fact from opinion",
+        "isCorrect": false
+      },
+      {
+        "text": "Evaluating the author's attitude",
+        "isCorrect": false
+      },
+      {
+        "text": "Activating learner's prior knowledge",
+        "isCorrect": true
+      },
+      {
+        "text": "Locating specific information in the text",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "An example of 'mechanical practice' is asking students to",
+    "answers": [
+      {
+        "text": "Repeat a sentence",
+        "isCorrect": true
+      },
+      {
+        "text": "Substitute pronouns",
+        "isCorrect": false
+      },
+      {
+        "text": "Play roles",
+        "isCorrect": false
+      },
+      {
+        "text": "Transform sentences",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "In a 'fluency-oriented' activity, it is advisable for the teacher to\u2026",
+    "answers": [
+      {
+        "text": "correct all the mistakes of his learners.",
+        "isCorrect": false
+      },
+      {
+        "text": "correct only mistakes of grammar.",
+        "isCorrect": false
+      },
+      {
+        "text": "correct only the mistakes which affect the message.",
+        "isCorrect": true
+      },
+      {
+        "text": "not correct mistakes at all.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the following documents deals with the procedures of classroom assessment",
+    "answers": [
+      {
+        "text": "Textbooks adopted by the Ministry of Education",
+        "isCorrect": false
+      },
+      {
+        "text": "The National Baccalaureate Exam Specifications",
+        "isCorrect": false
+      },
+      {
+        "text": "The National Charter for Education and Training",
+        "isCorrect": false
+      },
+      {
+        "text": "English Language Pedagogical Guidelines",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "\u2026.can be define as teaching learners how best to learn. It includes incouraging them to think about how they record vocabulary and how to continue their learning outside the classroom.",
+    "answers": [
+      {
+        "text": "learner training",
+        "isCorrect": true
+      },
+      {
+        "text": "recycling",
+        "isCorrect": false
+      },
+      {
+        "text": "learner autonomy",
+        "isCorrect": false
+      },
+      {
+        "text": "learner centredness",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "A strategy in which learners read for specific information is\u2026",
+    "answers": [
+      {
+        "text": "prereading",
+        "isCorrect": false
+      },
+      {
+        "text": "drilling",
+        "isCorrect": false
+      },
+      {
+        "text": "recycling",
+        "isCorrect": false
+      },
+      {
+        "text": "scanning",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "The approach in which students are actively engaged and the teacher plays the role of a monitor and classroom manager is called\u2026",
+    "answers": [
+      {
+        "text": "learner centredness",
+        "isCorrect": true
+      },
+      {
+        "text": "Learner training",
+        "isCorrect": false
+      },
+      {
+        "text": "Differentiated instruction",
+        "isCorrect": false
+      },
+      {
+        "text": "Drilling",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Fixed or semi-fixed expressions learned and retrieved as whole units and employed on specific occasions.",
+    "answers": [
+      {
+        "text": "Chunks",
+        "isCorrect": true
+      },
+      {
+        "text": "drills",
+        "isCorrect": false
+      },
+      {
+        "text": "techniques",
+        "isCorrect": false
+      },
+      {
+        "text": "None of the above",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "A technique in which students jot down ideas for their writing.",
+    "answers": [
+      {
+        "text": "recycling",
+        "isCorrect": false
+      },
+      {
+        "text": "editing",
+        "isCorrect": false
+      },
+      {
+        "text": "paraphrasing",
+        "isCorrect": false
+      },
+      {
+        "text": "None of the above",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Exercises used to practice a language item through repetition, gap-filling or matching, etc.",
+    "answers": [
+      {
+        "text": "recycling",
+        "isCorrect": false
+      },
+      {
+        "text": "drills",
+        "isCorrect": true
+      },
+      {
+        "text": "brainstorming",
+        "isCorrect": false
+      },
+      {
+        "text": "none of the above",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "A teaching method in which teachers review vocabulary or skills that have already been taught by including them in meaningful activities in subsequent lessons",
+    "answers": [
+      {
+        "text": "drilling",
+        "isCorrect": false
+      },
+      {
+        "text": "scaffolding",
+        "isCorrect": false
+      },
+      {
+        "text": "learner training",
+        "isCorrect": false
+      },
+      {
+        "text": "recycling",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "\u2026is when learners work on their written products to correct spelling, punctuation and grammar mistakes.",
+    "answers": [
+      {
+        "text": "paraphrasing",
+        "isCorrect": false
+      },
+      {
+        "text": "editing",
+        "isCorrect": true
+      },
+      {
+        "text": "brainstorming",
+        "isCorrect": false
+      },
+      {
+        "text": "recycling",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the following is a writing sub-skill?",
+    "answers": [
+      {
+        "text": "previewing a text",
+        "isCorrect": false
+      },
+      {
+        "text": "understanding words in context",
+        "isCorrect": false
+      },
+      {
+        "text": "using cohesive devices",
+        "isCorrect": false
+      },
+      {
+        "text": "understanding the meaning of cohesive devices",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Which of the following is NOT part of a typical grammar lesson?",
+    "answers": [
+      {
+        "text": "hypothesizing",
+        "isCorrect": false
+      },
+      {
+        "text": "previewing",
+        "isCorrect": true
+      },
+      {
+        "text": "noticing",
+        "isCorrect": false
+      },
+      {
+        "text": "experimenting",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "In her lesson, Emma asked students to listen to a dialogue, repeat, memorize and perform it. What method is the teacher adopting?",
+    "answers": [
+      {
+        "text": "Grammar-translation method",
+        "isCorrect": false
+      },
+      {
+        "text": "Direct method",
+        "isCorrect": false
+      },
+      {
+        "text": "Audio lingual method",
+        "isCorrect": true
+      },
+      {
+        "text": "Silent way",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the following is NOT true about project work?",
+    "answers": [
+      {
+        "text": "It is a purposeful activity",
+        "isCorrect": false
+      },
+      {
+        "text": "It is accomplished in real life",
+        "isCorrect": false
+      },
+      {
+        "text": "It is proceeded in social environment",
+        "isCorrect": false
+      },
+      {
+        "text": "It is a teacher-centered activity",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "In a \u2026\u2026\u2026 activity, everyone shares their thoughts and ideas on a topic or issue.",
+    "answers": [
+      {
+        "text": "brainstorming",
+        "isCorrect": true
+      },
+      {
+        "text": "role-playing",
+        "isCorrect": false
+      },
+      {
+        "text": "practice",
+        "isCorrect": false
+      },
+      {
+        "text": "repetition",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "The \"official guidelines\" for teaching English in Morocco states that \"the aims of the curriculum are in conformity with the four sets of values outlined in the National Charter for Education and Training.\" The underlined word refers to",
+    "answers": [
+      {
+        "text": "School expectations",
+        "isCorrect": false
+      },
+      {
+        "text": "National expectations",
+        "isCorrect": true
+      },
+      {
+        "text": "Learner expectaions",
+        "isCorrect": false
+      },
+      {
+        "text": "Teacher expectations",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "In education,'scaffolding' means",
+    "answers": [
+      {
+        "text": "to reprimand learners who misbehave",
+        "isCorrect": false
+      },
+      {
+        "text": "to allow learners to work on their own folders",
+        "isCorrect": false
+      },
+      {
+        "text": "to support learners in solving learning problems",
+        "isCorrect": true
+      },
+      {
+        "text": "to do exercises and solve problems for learners",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Relying on the linguistic data presented in a comprehension text is called",
+    "answers": [
+      {
+        "text": "bottom-up processing",
+        "isCorrect": true
+      },
+      {
+        "text": "top-down processing",
+        "isCorrect": false
+      },
+      {
+        "text": "critical reading",
+        "isCorrect": false
+      },
+      {
+        "text": "critical thinking",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the following is NOT an example of alternative assessment?",
+    "answers": [
+      {
+        "text": "a quiz",
+        "isCorrect": false
+      },
+      {
+        "text": "a project done by students",
+        "isCorrect": false
+      },
+      {
+        "text": "an exam",
+        "isCorrect": true
+      },
+      {
+        "text": "an interview",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "In a reading comprehension lesson, the teacher asks students to read the title and subtitles of a text and choose the main idea. This reading is called",
+    "answers": [
+      {
+        "text": "skimming",
+        "isCorrect": true
+      },
+      {
+        "text": "skipping",
+        "isCorrect": false
+      },
+      {
+        "text": "scanning",
+        "isCorrect": false
+      },
+      {
+        "text": "inferring",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "In her writing lesson, Mrs. Ericson often gives her students a model and then asks them to create something similar. In this way she is adopting the \u2026\u2026.. to writing.",
+    "answers": [
+      {
+        "text": "prescriptive approach",
+        "isCorrect": false
+      },
+      {
+        "text": "process approach",
+        "isCorrect": false
+      },
+      {
+        "text": "descriptive approach",
+        "isCorrect": false
+      },
+      {
+        "text": "product approach",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Which of the following tasks would you likely NOT see in a listening comprehension lesson?",
+    "answers": [
+      {
+        "text": "Summarize the information that you hear",
+        "isCorrect": false
+      },
+      {
+        "text": "Write down an end to the story",
+        "isCorrect": false
+      },
+      {
+        "text": "listen and repeat the words with /i:/ sound",
+        "isCorrect": true
+      },
+      {
+        "text": "fill in a chart with information you hear",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "A short activity that is used to prepare students for the lesson is called a",
+    "answers": [
+      {
+        "text": "warmer",
+        "isCorrect": true
+      },
+      {
+        "text": "drill",
+        "isCorrect": false
+      },
+      {
+        "text": "chant",
+        "isCorrect": false
+      },
+      {
+        "text": "role-play",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "While preparing a reading lesson, Mr. Karim realizes that the text is loaded with new unknown words. Before dealing with the text, Mr. Karim should\u2026",
+    "answers": [
+      {
+        "text": "ask students to check all the words using their dictionaries",
+        "isCorrect": false
+      },
+      {
+        "text": "deal with the text the way it is",
+        "isCorrect": false
+      },
+      {
+        "text": "pre-teach all new words separately before he starts dealing with the text.",
+        "isCorrect": false
+      },
+      {
+        "text": "pre-teach only the words that are necessary for text comprehension",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "At the beginning of each year, teachers give their students a test to assess their basic abilities so that they can determine what part of the curriculum to start with. This test is an example of",
+    "answers": [
+      {
+        "text": "a diagnostic test",
+        "isCorrect": true
+      },
+      {
+        "text": "an achievement test",
+        "isCorrect": false
+      },
+      {
+        "text": "an aptitude test",
+        "isCorrect": false
+      },
+      {
+        "text": "a placement test",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Elizabeth says that her language course is organized around topics like family, work,season,etc. This type of course is referred to as \u2026\u2026\u2026 course",
+    "answers": [
+      {
+        "text": "skills-based",
+        "isCorrect": false
+      },
+      {
+        "text": "grammar-based",
+        "isCorrect": false
+      },
+      {
+        "text": "theme-based",
+        "isCorrect": true
+      },
+      {
+        "text": "function-based",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the following is more likely to follow the presentation stage of a structure in a grammar lesson",
+    "answers": [
+      {
+        "text": "doing practice exercises about the target structure",
+        "isCorrect": true
+      },
+      {
+        "text": "writing a short paragraph using the target structure",
+        "isCorrect": false
+      },
+      {
+        "text": "reading a text which contains the same structure",
+        "isCorrect": false
+      },
+      {
+        "text": "asking learners to perform dialogs using the target structure",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Which of these activities can be used to focus on fluency?",
+    "answers": [
+      {
+        "text": "students match the beginning and end of sentences",
+        "isCorrect": false
+      },
+      {
+        "text": "students complete sentences with the words given",
+        "isCorrect": false
+      },
+      {
+        "text": "students describe pictures using their own words",
+        "isCorrect": true
+      },
+      {
+        "text": "students describe pictures using given words",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "To teach the expression 'kick the bucket', it is better to",
+    "answers": [
+      {
+        "text": "teach the meaning of 'kick', and then teach the meaning of the expression",
+        "isCorrect": false
+      },
+      {
+        "text": "teach the meaning of the expression without teaching the meaning of the two words",
+        "isCorrect": true
+      },
+      {
+        "text": "teach the meaning of the two words without teaching the meaning of the expression",
+        "isCorrect": false
+      },
+      {
+        "text": "teach the meaning of \"the bucket\", and then teach the meaning of the expression",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "In language teaching, 'schemata' refers to",
+    "answers": [
+      {
+        "text": "learning plans prepared by students",
+        "isCorrect": false
+      },
+      {
+        "text": "lesson plans prepared by the teacher",
+        "isCorrect": false
+      },
+      {
+        "text": "learners' existing background knwoledge",
+        "isCorrect": true
+      },
+      {
+        "text": "information charts to be filled by learners",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Rachid always asks his teacher to repeat instructions in the classroom. He also enjoys listening activities and rehearsing English songs at home. What kind of learning style does Rachid demonstrate?",
+    "answers": [
+      {
+        "text": "visual",
+        "isCorrect": false
+      },
+      {
+        "text": "kinesthetic",
+        "isCorrect": false
+      },
+      {
+        "text": "auditory",
+        "isCorrect": true
+      },
+      {
+        "text": "field independent",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Nadia is difficult to control in the classroom. She always moves around and prefers to learn while playing a game. What kind of learning style does Nadia demonstrate?",
+    "answers": [
+      {
+        "text": "visual",
+        "isCorrect": false
+      },
+      {
+        "text": "kinesthetic",
+        "isCorrect": true
+      },
+      {
+        "text": "auditory",
+        "isCorrect": false
+      },
+      {
+        "text": "field independent",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Soumaya always needs her teacher to show her a picture or two in order to understand better. She also prefers to draw charts and timelines in her language classes. She is usually better at reading comprehension tasks.What kind of learning style does Soumaya demonstrate?",
+    "answers": [
+      {
+        "text": "visual",
+        "isCorrect": true
+      },
+      {
+        "text": "kinesthetic",
+        "isCorrect": false
+      },
+      {
+        "text": "auditory",
+        "isCorrect": false
+      },
+      {
+        "text": "field independent",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "In a grammar lesson about the passive voice, the teacher starts the lesson by\n reviewing the past participle form of some verbs. He then provides learners with a\nshort text which contains a few examples of the target structure (the passive voice). What is the appropriate level of Bloom\u2019s taxonomy of learning objectives?",
+    "answers": [
+      {
+        "text": "Applying",
+        "isCorrect": false
+      },
+      {
+        "text": "understanding",
+        "isCorrect": false
+      },
+      {
+        "text": "remembering",
+        "isCorrect": true
+      },
+      {
+        "text": "analyzing",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "The teacher attracts the learners\u2019 attention to the sentences which demonstrate \nthe passive voice by underlining the verb forms. He provides some support about the doer of the action by asking learners further questions.",
+    "answers": [
+      {
+        "text": "Applying",
+        "isCorrect": false
+      },
+      {
+        "text": "understanding",
+        "isCorrect": true
+      },
+      {
+        "text": "remembering",
+        "isCorrect": false
+      },
+      {
+        "text": "analyzing",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Learners are asked to work in pairs. They extract the sentences from the text \nand then try to figure out how the passive voice is formed by examining the sentences and trying to find who did what, to whom and when. They then come up\nwith their own rule of the passive voice.",
+    "answers": [
+      {
+        "text": "Applying",
+        "isCorrect": false
+      },
+      {
+        "text": "understanding",
+        "isCorrect": false
+      },
+      {
+        "text": "remembering",
+        "isCorrect": false
+      },
+      {
+        "text": "analyzing",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "The learners are asked to re-write the sentences in the text in their equivalent active forms. They also do another exercise in which they put the verbs in the passive form. The teacher finally provides learners with a picture and asks them to write two sentences in which they use the passive voice, describing the actions in the picture.",
+    "answers": [
+      {
+        "text": "Applying",
+        "isCorrect": true
+      },
+      {
+        "text": "understanding",
+        "isCorrect": false
+      },
+      {
+        "text": "remembering",
+        "isCorrect": false
+      },
+      {
+        "text": "analyzing",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Beth and three other adult learners are new students at John & Jonny's School. Their new jobs require the use of English and that is why they have come to register in a short term langauge program. The administration decides to give them a test to determine the language level of each of them. What type of test is this?",
+    "answers": [
+      {
+        "text": "Achievement test",
+        "isCorrect": false
+      },
+      {
+        "text": "Diagnostic test",
+        "isCorrect": false
+      },
+      {
+        "text": "Proficiency test",
+        "isCorrect": false
+      },
+      {
+        "text": "Placement Test",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Linda is a high school teacher. Her students have already finished studying two units in the first semester. She hasn't yet checked if they have benefited from her classes. So, she decides to give them a test. What type of test is this?",
+    "answers": [
+      {
+        "text": "Achievement test",
+        "isCorrect": true
+      },
+      {
+        "text": "Diagnostic test",
+        "isCorrect": false
+      },
+      {
+        "text": "Proficiency test",
+        "isCorrect": false
+      },
+      {
+        "text": "Placement Test",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Every beginning of the year and before starting to teach a new course to his classes, Mr Bradley proceeds to evaluate his students' knowledge of English. The results of the test would allow him to provide his learners with remedial activities according to their needs. What type of test is this?",
+    "answers": [
+      {
+        "text": "Achievement test",
+        "isCorrect": false
+      },
+      {
+        "text": "Diagnostic test",
+        "isCorrect": true
+      },
+      {
+        "text": "Proficiency test",
+        "isCorrect": false
+      },
+      {
+        "text": "Placement Test",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Brahim got his Baccalaureate with distinction, and he decided to study at an American university. Part of the registration requirements is to take the TOEFL test to check if he can successfully carry on his studies without any language-related difficulties. One of the teachers at John & Jonny's School is helping him to prepare for this test. What type of test is this?",
+    "answers": [
+      {
+        "text": "Achievement test",
+        "isCorrect": false
+      },
+      {
+        "text": "Diagnostic test",
+        "isCorrect": false
+      },
+      {
+        "text": "Proficiency test",
+        "isCorrect": true
+      },
+      {
+        "text": "Placement Test",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "In Piaget\u2019s theory of learning, when a child is changing his own internal knowledge structures, he is",
+    "answers": [
+      {
+        "text": "assimilating",
+        "isCorrect": false
+      },
+      {
+        "text": "adapting",
+        "isCorrect": false
+      },
+      {
+        "text": "adopting",
+        "isCorrect": false
+      },
+      {
+        "text": "accomodating",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "In language teaching, an adjacency pair is",
+    "answers": [
+      {
+        "text": "a sequence of two utterances by the same speaker",
+        "isCorrect": false
+      },
+      {
+        "text": "a sequence of two utterances by two different speakers",
+        "isCorrect": true
+      },
+      {
+        "text": "a sequence of two words occurring next to each other",
+        "isCorrect": false
+      },
+      {
+        "text": "Two sentences occuring one next to the other in a written text",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Nathalie, a teacher of English, usually uses short quizzes to evaluate her students\u2019\nlearning, but without assigning grades. In this situation we can say that Nathalie\u2019s quizzes are for",
+    "answers": [
+      {
+        "text": "summative purposes",
+        "isCorrect": false
+      },
+      {
+        "text": "formative purposes",
+        "isCorrect": true
+      },
+      {
+        "text": "proficiency purposes",
+        "isCorrect": false
+      },
+      {
+        "text": "diagnostic purposes",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "In reading/listening comprehension, the teacher is expected to activate learners\u2019 background knowledge for better understanding of the text. Which of the following activities is the most suitable for activating background knowledge?",
+    "answers": [
+      {
+        "text": "Asking learners to read the text loudly before they deal with the questions",
+        "isCorrect": false
+      },
+      {
+        "text": "Asking learners to underline difficult words in the text",
+        "isCorrect": false
+      },
+      {
+        "text": "Asking learners to summarize and evaluate the text",
+        "isCorrect": false
+      },
+      {
+        "text": "Telling the learners to make connections between the topic of the text and the life of a person they know",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Which of the following learning theories ignores the role of the human mind in developing knowledge (including knowledge of language) and assumes that learning can be studied \nonly in terms of physical processes?",
+    "answers": [
+      {
+        "text": "Behaviorism",
+        "isCorrect": true
+      },
+      {
+        "text": "Cognitivism",
+        "isCorrect": false
+      },
+      {
+        "text": "Constructivism",
+        "isCorrect": false
+      },
+      {
+        "text": "Humanism",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "In blended learning contexts, the teacher presents",
+    "answers": [
+      {
+        "text": "the whole course online only in emergency situations.",
+        "isCorrect": false
+      },
+      {
+        "text": "part of the course in the foreign language and the other part in the learners\u2019 native language.",
+        "isCorrect": false
+      },
+      {
+        "text": "part of the course face-to-face and the other part with the use of technological devices.",
+        "isCorrect": true
+      },
+      {
+        "text": "the course solely by relying on technological devices such as computers, the internet, etc.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the following activities is related to top-down processing in reading comprehension?",
+    "answers": [
+      {
+        "text": "Decoding the letters in the text",
+        "isCorrect": false
+      },
+      {
+        "text": "Analyzing the components of sentences",
+        "isCorrect": false
+      },
+      {
+        "text": "Deciding if a word such as \u2018process\u2019 is a noun or a verb in a sentence",
+        "isCorrect": false
+      },
+      {
+        "text": "Thinking of a story you already read and which has a similar ending",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Which of the following tasks targets assessing students\u2019 inferential comprehension skills?",
+    "answers": [
+      {
+        "text": "Pick out from the text two adjectives which show the writer\u2019s attitude to child labor.",
+        "isCorrect": true
+      },
+      {
+        "text": "Read the text and underline the three main causes of child labor.",
+        "isCorrect": false
+      },
+      {
+        "text": "Complete the chart with the percentage of child labor in each country.",
+        "isCorrect": false
+      },
+      {
+        "text": "Fill in the chart with the correct figures from the text about child labor.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "In an English language class, cloze is used as a...",
+    "answers": [
+      {
+        "text": "testing technique",
+        "isCorrect": true
+      },
+      {
+        "text": "grouping technique",
+        "isCorrect": false
+      },
+      {
+        "text": "planning technique",
+        "isCorrect": false
+      },
+      {
+        "text": "feedback technique",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "In the writing process when a student is asking questions such as \u201chow can I make this point \nclear?/Is this argument convincing?\u201d He/ she is in the stage of",
+    "answers": [
+      {
+        "text": "publishing",
+        "isCorrect": false
+      },
+      {
+        "text": "inventing",
+        "isCorrect": false
+      },
+      {
+        "text": "editing",
+        "isCorrect": false
+      },
+      {
+        "text": "revising",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Part of a lesson that gives learners the chance to use what they've just learned in simulated real situations is called",
+    "answers": [
+      {
+        "text": "guided practice",
+        "isCorrect": false
+      },
+      {
+        "text": "free practice",
+        "isCorrect": true
+      },
+      {
+        "text": "teaching practice",
+        "isCorrect": false
+      },
+      {
+        "text": "controlled practice",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "The ability to read and speak well and to express oneself without effort is called",
+    "answers": [
+      {
+        "text": "comprehension",
+        "isCorrect": false
+      },
+      {
+        "text": "fluency",
+        "isCorrect": true
+      },
+      {
+        "text": "production",
+        "isCorrect": false
+      },
+      {
+        "text": "accuracy",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "In their teacher training program, Jamal and his group were asked to prepare a presentation on language pedagogy. The latter is an area of",
+    "answers": [
+      {
+        "text": "theoretical linguistics",
+        "isCorrect": false
+      },
+      {
+        "text": "sociolinguistics",
+        "isCorrect": false
+      },
+      {
+        "text": "applied linguistics",
+        "isCorrect": true
+      },
+      {
+        "text": "psycholinguistics",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the following is the most appropriate technique for a pre-writing activity?",
+    "answers": [
+      {
+        "text": "Using a graphic organizer to generate ideas",
+        "isCorrect": true
+      },
+      {
+        "text": "Asking students to comment on each other\u2019s draft",
+        "isCorrect": false
+      },
+      {
+        "text": "Checking the meaningfulness of sentences",
+        "isCorrect": false
+      },
+      {
+        "text": "Using a checklist to edit a written essay",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the following is considered contrived or non-authentic material in a language class?",
+    "answers": [
+      {
+        "text": "a teacher prepared dialogue",
+        "isCorrect": true
+      },
+      {
+        "text": "a newspaper article",
+        "isCorrect": false
+      },
+      {
+        "text": "a video recorded in a restaurant",
+        "isCorrect": false
+      },
+      {
+        "text": "a speech of USA president",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "During our first classroom observation, our host teacher started with an activity in which his students shared their thoughts about the problem of violence at school. This is called",
+    "answers": [
+      {
+        "text": "drilling",
+        "isCorrect": false
+      },
+      {
+        "text": "role playing",
+        "isCorrect": false
+      },
+      {
+        "text": "gap filling",
+        "isCorrect": false
+      },
+      {
+        "text": "brainstorming",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "In second or foreign language teaching, advocates of the\u2026\u2026\u2026.. claim that teachers should allow a silent period which provides the learners with the necessary input before they start producing the language.",
+    "answers": [
+      {
+        "text": "natural approach",
+        "isCorrect": true
+      },
+      {
+        "text": "grammar-translation method",
+        "isCorrect": false
+      },
+      {
+        "text": "direct method",
+        "isCorrect": false
+      },
+      {
+        "text": "audio-lingual method",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "In her grammar lessons, Betsy prefers to give her students the rules first and then provides them with examples and exercises. She believes that this\u2026\u2026\u2026\u2026\u2026..\tis more suitable for her adult learners.",
+    "answers": [
+      {
+        "text": "discovery approach",
+        "isCorrect": false
+      },
+      {
+        "text": "product approach",
+        "isCorrect": false
+      },
+      {
+        "text": "deductive approach",
+        "isCorrect": true
+      },
+      {
+        "text": "inductive approach",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "At the end of each class, Mrs. Yousfi would sit down and think about what was successful and what was less successful in her lesson. What is this teacher role called?",
+    "answers": [
+      {
+        "text": "reflector",
+        "isCorrect": true
+      },
+      {
+        "text": "performer",
+        "isCorrect": false
+      },
+      {
+        "text": "organizer",
+        "isCorrect": false
+      },
+      {
+        "text": "observer",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Mr. Rahmouni walked around in his class and watched his students \nwork in groups.  What is this teacher role called?",
+    "answers": [
+      {
+        "text": "performer",
+        "isCorrect": false
+      },
+      {
+        "text": "counsellor",
+        "isCorrect": false
+      },
+      {
+        "text": "administrator",
+        "isCorrect": false
+      },
+      {
+        "text": "observer",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Miss Tanjaoui mimed a series of actions to help her students understand some action verbs. What is this teacher role called?",
+    "answers": [
+      {
+        "text": "organizer",
+        "isCorrect": false
+      },
+      {
+        "text": "performer",
+        "isCorrect": true
+      },
+      {
+        "text": "controller",
+        "isCorrect": false
+      },
+      {
+        "text": "counsellor",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Mrs. Naji listened carefully to her students and when they used their native language, she told them to use the target language. What is this teacher role called?",
+    "answers": [
+      {
+        "text": "counsellor",
+        "isCorrect": false
+      },
+      {
+        "text": "administrator",
+        "isCorrect": false
+      },
+      {
+        "text": "controller",
+        "isCorrect": true
+      },
+      {
+        "text": "organizer",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Before his lesson, Mr. Sentissi sits down and thinks about how long his pair-work activity should take, what instructions his students need and how he can make them clear, how his students should sit and what to do if a student doesn\u2019t have a partner. What is this teacher role called?",
+    "answers": [
+      {
+        "text": "administrator",
+        "isCorrect": false
+      },
+      {
+        "text": "counsellor",
+        "isCorrect": false
+      },
+      {
+        "text": "observer",
+        "isCorrect": false
+      },
+      {
+        "text": "organizer",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "In teaching \"how to make a request\", the teacher asked his learners to prepare a dialog in which they play the role of a new employee asking his boss to pass him the pen on the desk. The following are utterances made by students to make requests. Which one is the most appropriate in this situation?",
+    "answers": [
+      {
+        "text": "\"I need that pen. Pass it, please!\"",
+        "isCorrect": false
+      },
+      {
+        "text": "\"Will you pass that pen? I need one.\"",
+        "isCorrect": false
+      },
+      {
+        "text": "\"Pass that pen to me, please!\"",
+        "isCorrect": false
+      },
+      {
+        "text": "\"Could you please pass the pen to me?\"",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "In a grammar lesson about the simple future, the teacher started the lesson by asking learners to read a short text and answer a few comprehension questions. The questions were designed to help learners notice the form of the simple future. Next, the teacher asked learners to work in pairs and do a practice exercise on their textbooks. After the correction, learners were asked to write sentences of their own using the future simple. However, neither the practice stage nor the production stage showed that learners understand what the future simple is about or could use it communicatively. Which of the following stages was NOT conducted appropriately by the teacher?",
+    "answers": [
+      {
+        "text": "The presentation stage",
+        "isCorrect": true
+      },
+      {
+        "text": "The checking stage.",
+        "isCorrect": false
+      },
+      {
+        "text": "The practice stage.",
+        "isCorrect": false
+      },
+      {
+        "text": "The application stage.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Nadine teaches English in a school which does not use any formal textbook. Therefore, she often makes a list of the skills which she should target in her lessons. The following is a list of skills which Nadine wants to target in her 'teaching speaking' course. Which of the skills should NOT be included in Nadine's speaking course?",
+    "answers": [
+      {
+        "text": "Learning to take turns in a conversation.",
+        "isCorrect": false
+      },
+      {
+        "text": "Using gestures appropriately when talking to foreigners.",
+        "isCorrect": false
+      },
+      {
+        "text": "Understanding the attitude of a speaker from his tone.",
+        "isCorrect": true
+      },
+      {
+        "text": "Learning how to use fillers appropriately.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "In a writing lesson, the teacher asks learners to work in pairs and read each other's writing, focusing on the following questions: 'Are all sentences correctly punctuated?' 'Are there any spelling mistake?' Which of the following labels is more appropriate for what the students are doing?",
+    "answers": [
+      {
+        "text": "Drafting",
+        "isCorrect": false
+      },
+      {
+        "text": "Brainstorming",
+        "isCorrect": false
+      },
+      {
+        "text": "Editing",
+        "isCorrect": true
+      },
+      {
+        "text": "Outlining",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "In a process writing lesson, Brahim went through these stages. What is the appropriate order of the stages in this lesson? 1. Responding to draft: peers responded to ideas, organization and style. 2. Prewriting: brainstorming and outlining. 3. Drafting: getting ideas down on paper. 4. Proofreading: checking and correcting aspects of form and layout. 5. Selecting the topic.",
+    "answers": [
+      {
+        "text": "5-3-1-2-4",
+        "isCorrect": false
+      },
+      {
+        "text": "5-4-1-3-2",
+        "isCorrect": false
+      },
+      {
+        "text": "5-2-3-4-1",
+        "isCorrect": false
+      },
+      {
+        "text": "5-2-3-1-4",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Before presenting the target structure, Miss Nadif asked learners to read a text which includes examples of the target structure. They were asked to answer a few comprehension questions about the text. The teacher also put pictures on the board. She asked learners questions related to the pictures and wrote some of their answers on the board. The activities above are related to the first part of a grammar lesson. This first part might be labeled as:",
+    "answers": [
+      {
+        "text": "contextualization",
+        "isCorrect": true
+      },
+      {
+        "text": "hypothesizing",
+        "isCorrect": false
+      },
+      {
+        "text": "experimentation",
+        "isCorrect": false
+      },
+      {
+        "text": "mechanical practice",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "While planning a reading comprehension lesson, the teacher came across the following sentence in the reading text: 'Celestial bodies, including the sun, moon, and stars, have fascinated man through the centuries'. What would be the most appropriate strategy to deal with the phrase 'celestial bodies'?",
+    "answers": [
+      {
+        "text": "to teach it through drawing.",
+        "isCorrect": false
+      },
+      {
+        "text": "to teach it through the use of real objects.",
+        "isCorrect": false
+      },
+      {
+        "text": "to ignore it and focus on the other words in the text.",
+        "isCorrect": true
+      },
+      {
+        "text": "to teach it using a definition.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "The following is a list of content from the units of an English language teaching textbook: \"asking for personal information\", \"greetings\", \"asking for directions and distances\", \"asking for prices\", \"asking about time\". Which of the following would best describe this type of syllabus?",
+    "answers": [
+      {
+        "text": "Notional-functional syllabus",
+        "isCorrect": true
+      },
+      {
+        "text": "Structural syllabus",
+        "isCorrect": false
+      },
+      {
+        "text": "Skill-based syllabus",
+        "isCorrect": false
+      },
+      {
+        "text": "Content-based syllabus",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "'Inferring implicitly stated information' when reading a text is an important skill. In a reading text about 'the environment', which of the following tasks can the teacher set to target the development of this skill?",
+    "answers": [
+      {
+        "text": "Students read the text and underline the difficult words and look them up in a dictionary.",
+        "isCorrect": false
+      },
+      {
+        "text": "Students complete the chart with information which answers: when? -- where? -- who?",
+        "isCorrect": false
+      },
+      {
+        "text": "Students write their opinions saying wheather they are satisfied with the solutions suggestions in the text",
+        "isCorrect": false
+      },
+      {
+        "text": "Students underline adjectives which show that the writer is not satisfied with the current situation..",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Vocabulary can be taught to learners using a variety of techniques. Which of the following is an effective technique to teach the idiom 'when pigs fly'?",
+    "answers": [
+      {
+        "text": "Using a situation",
+        "isCorrect": true
+      },
+      {
+        "text": "Miming a flying pig",
+        "isCorrect": false
+      },
+      {
+        "text": "Asking learners to draw a flying pig",
+        "isCorrect": false
+      },
+      {
+        "text": "Showing a picture of a flying pig.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Lahcen is a Moroccan secondary school student who loves to meet and talk with tourists in his village Amouger. In one of his encounters, Lahcen met an English tourist and exchanged basic information about their names, countries and their likes. At the end of their conversation, the tourist said 'see you later' and Lahcen replied with 'when?', which is not an appropriate reply in this situation. Which of the following aspects should Lahcen's teacher focus on in his language classes in order to help learners avoid such embarrassing replies?",
+    "answers": [
+      {
+        "text": "Linguistic Knowledge",
+        "isCorrect": false
+      },
+      {
+        "text": "Phonologic knowledge",
+        "isCorrect": false
+      },
+      {
+        "text": "Pragmatic knowledge",
+        "isCorrect": true
+      },
+      {
+        "text": "Paralinguistic knowledge",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Sophie is a middle school student whose native language is French. In her language, Sophie knows that a sentence such as ' j'ai faim' with the verb 'avoir/to have' is appropriate and grammatically correct. In one of her English (as second language) classes, Sophie wants to say she's hungry and she uses the same construction which she uses in her native language. This resulted in an error in English ' I have hungry'. The teacher indirectly corrected Sophie's mistake and so she internalized the corrected form, which has resulted in changes in her linguistic schema. Using Piaget's theory of cognitive development, which of the following would best describe the mental process which helped Sophie acquire the correct form?",
+    "answers": [
+      {
+        "text": "Generalization",
+        "isCorrect": false
+      },
+      {
+        "text": "Assimilation",
+        "isCorrect": false
+      },
+      {
+        "text": "Accommodation",
+        "isCorrect": true
+      },
+      {
+        "text": "Internalization",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Sara is teaching a 9th grade class. Today she is reading aloud a story about animals. Students are listening and they make animal noises every time they hear the name of an animal. Which approach to language teaching is Sara adopting?",
+    "answers": [
+      {
+        "text": "The Audio Lingual Method.",
+        "isCorrect": false
+      },
+      {
+        "text": "Total Physical Response.",
+        "isCorrect": true
+      },
+      {
+        "text": "Communicative Language Teaching",
+        "isCorrect": false
+      },
+      {
+        "text": "Grammar-Translation Method",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Barbara is an English teacher who incorporates teamwork and role play into every lesson. She continually stresses the importance of students' interaction with each other. Barbara is helping her students to develop their...",
+    "answers": [
+      {
+        "text": "bodily-kinesthetic intelligence",
+        "isCorrect": false
+      },
+      {
+        "text": "emotional intelligence",
+        "isCorrect": false
+      },
+      {
+        "text": "interpersonal intelligence",
+        "isCorrect": true
+      },
+      {
+        "text": "naturalistic intelligence",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Walid got a D in English in the first semester. His parents promised to buy him a new iphone if he improved his grade to a B in the second semester. Walid really wanted the iphone and doubled his study time in English. He got an A in the second semester. Getting the iphone for his achievement is an instance of",
+    "answers": [
+      {
+        "text": "intrinsic motivation",
+        "isCorrect": false
+      },
+      {
+        "text": "extrinsic motivation",
+        "isCorrect": true
+      },
+      {
+        "text": "identified motivation",
+        "isCorrect": false
+      },
+      {
+        "text": "introjected motivation",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Assia noticed that most of her students do not hand in their homework. She initiates a program that rewards students who hand in completed assignments on time by giving them short stories as gifts. Homework completion rates have increased substantially. The theory that best explains the students' behavior is",
+    "answers": [
+      {
+        "text": "needs theory",
+        "isCorrect": false
+      },
+      {
+        "text": "social learning theory",
+        "isCorrect": false
+      },
+      {
+        "text": "reinforcement theory",
+        "isCorrect": true
+      },
+      {
+        "text": "cognitive theory",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "At the end of her listening lesson, Mrs. Karen writes on the board examples of sentences which feature the simple past tense from a listening conversation. She then uses the sentences to teach the simple past to her students. This approach of teaching tenses/structures is more likely related to:",
+    "answers": [
+      {
+        "text": "The Audio-Lingual Method",
+        "isCorrect": true
+      },
+      {
+        "text": "The Grammar-Translation Method",
+        "isCorrect": false
+      },
+      {
+        "text": "Task-based language teaching",
+        "isCorrect": false
+      },
+      {
+        "text": "The Silent Way",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "The national English language curriculum has established a set of attainment objectives which students should achieve by the time they complete their secondary school education. An example of these broad objectives is \"students should be able to communicative orally and fluently about basic communicative situations with native speakers\". This statement is an example of",
+    "answers": [
+      {
+        "text": "a speaking lesson objective",
+        "isCorrect": false
+      },
+      {
+        "text": "a psychomotor objective",
+        "isCorrect": false
+      },
+      {
+        "text": "an affective objective",
+        "isCorrect": false
+      },
+      {
+        "text": "a performance objective",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "In a writing lesson, Mr. Mouradi tells his class: \"You have 15 minutes to do this task. Write down your ideas first, then organize them before you start writing the final draft. Once you finish drafting, exchange your writing with another peer and use the checklist to edit it\". In this extract from his classroom practice, Mr. Mouradi is adopting the role of:",
+    "answers": [
+      {
+        "text": "counselor",
+        "isCorrect": false
+      },
+      {
+        "text": "observer",
+        "isCorrect": false
+      },
+      {
+        "text": "organizer",
+        "isCorrect": true
+      },
+      {
+        "text": "prompter",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "John is a new teacher. He knows very little about his students. At the beginning of the year, he wants to evaluate learners' previous knowledge of language so that he could differentiate instruction and cater for different learner needs in his class. Which of the following tests do you think John should administer?",
+    "answers": [
+      {
+        "text": "An achievement test",
+        "isCorrect": false
+      },
+      {
+        "text": "A diagnostic test",
+        "isCorrect": true
+      },
+      {
+        "text": "A proficiency test",
+        "isCorrect": false
+      },
+      {
+        "text": "A summative test",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "In one of her EFL classes Maria asked her international students to work in groups of 4 students belonging to different nationalities. The task was to discuss the signs which show respect and those which might indicate disrespect to the interlocutor in a conersation. She gave them the example of mainting eye-contact with the speaker in America as a sign of showing interst and respect. Which of the following knowledge types Maria wants learners to devleop in her classes?",
+    "answers": [
+      {
+        "text": "Linguistic competence",
+        "isCorrect": false
+      },
+      {
+        "text": "Supra-segmental competence",
+        "isCorrect": false
+      },
+      {
+        "text": "Socio-linguistic competence",
+        "isCorrect": false
+      },
+      {
+        "text": "Intercultural competence",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "During a teacher training webinar, Houssam learnt that assigning projects is an aspect of formative assessment which helps learners to demonstrate their language competencies and to learn better. In his class, the teacher asked his learners to prepare a project about the theme of the previous unit. Which among the teacher's practises is NOT an appropriate aspect of formative assessment?",
+    "answers": [
+      {
+        "text": "The teacher asked pairs of learners to work on projects.",
+        "isCorrect": false
+      },
+      {
+        "text": "The teacher monitored learner's products along the way",
+        "isCorrect": false
+      },
+      {
+        "text": "The teacher allowed a few individuals to share their presentation with the class, while all the pojects were also shared online.",
+        "isCorrect": false
+      },
+      {
+        "text": "The teacher finally graded learners' projects and classified them on his desk.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Mr. Amrou administred a summative test. While taking the test, many students complained that it was too long to be taken in one hour. After scoring studnets' performance, he found out that the majority, including the excellent ones, didn't finish all the tasks. More, they obtained a grade below average, Which of the follwoing qualities of the test is affected in this case?",
+    "answers": [
+      {
+        "text": "Construct validity",
+        "isCorrect": false
+      },
+      {
+        "text": "Realiability",
+        "isCorrect": true
+      },
+      {
+        "text": "Consistency",
+        "isCorrect": false
+      },
+      {
+        "text": "Content validity",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Amal believes that because she's adopting the communicative approach in her teaching, she should also test learners' achievement in a commuicative way. To test learners' speaking abilities, Amal designed a veriety of tasks about the topic of \"weahter\". Which of the following is NOT consistent with Amal's philosophy in teaching language?",
+    "answers": [
+      {
+        "text": "Students asking each other about the weather",
+        "isCorrect": false
+      },
+      {
+        "text": "Filling in gaps with the right adjectives to describe the weather in their area",
+        "isCorrect": true
+      },
+      {
+        "text": "Exchanging details in an information gap activity about the weather",
+        "isCorrect": false
+      },
+      {
+        "text": "completing a conversation about the weather appropriately",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "One of the appraches to teaching vocabulary and grammer is the use of three stages referred to as PPP. What do the initials stand for?",
+    "answers": [
+      {
+        "text": "Process, Product, Presentation",
+        "isCorrect": false
+      },
+      {
+        "text": "Presentation, Production, Process",
+        "isCorrect": false
+      },
+      {
+        "text": "Presentation, Practice, Production",
+        "isCorrect": true
+      },
+      {
+        "text": "Preparing, Presenting, Producing",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Maria noticed that her supervisor's report focused on two points in her lesson. First, the text which Maria used is contrived. It seems that it was written by the teacher herself. Second, the situations which she  asssigned to the students in a role-play activity barely resemble anything which may happen in a real-life context. The issues which the supervisor raised in relation to Maria's class are mainly rlated to:",
+    "answers": [
+      {
+        "text": "Originality",
+        "isCorrect": false
+      },
+      {
+        "text": "authenticity",
+        "isCorrect": true
+      },
+      {
+        "text": "Variety",
+        "isCorrect": false
+      },
+      {
+        "text": "Adaptability",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Which one of the following ICT practices does NOT enhance learning in an English language class:",
+    "answers": [
+      {
+        "text": "Displaying pictures to learners using a video projector in a reading lesson",
+        "isCorrect": false
+      },
+      {
+        "text": "Using Microsoft Excel to make lists of projects which students have prepared",
+        "isCorrect": true
+      },
+      {
+        "text": "Sharing materials with learners via a social network site such as Facebook",
+        "isCorrect": false
+      },
+      {
+        "text": "Listening to a story while silently reading its audio script",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "The Moroccan Baccalaureate exam specifications stress that the language section of the test/exams should include both receptive and productive tasks. The following are the rubrics of four possible exam tasks. Which among the four is a productive task?",
+    "answers": [
+      {
+        "text": "Complete the conversation with a phrase from the list",
+        "isCorrect": false
+      },
+      {
+        "text": "Complete the missing part of the conversation appropriately",
+        "isCorrect": true
+      },
+      {
+        "text": "Circle the appropriate expression to use in the dialogue",
+        "isCorrect": false
+      },
+      {
+        "text": "Match each function to its appropriate example in the chart below",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "To examine how learners develop their language, researchers in our department collected huge data of authentic speakers' langauge sample. They then analyzed this data using sophisticated computer tools in order to draw conclusions about how their second language learner population develop their use of certain syntactic constructions. Which of the following language development perspectives is more likely to be adopted by these researchers?",
+    "answers": [
+      {
+        "text": "The functionalist tradition",
+        "isCorrect": true
+      },
+      {
+        "text": "The behaviorist tradition",
+        "isCorrect": false
+      },
+      {
+        "text": "The structuralist tradition",
+        "isCorrect": false
+      },
+      {
+        "text": "The generative linguistics tradition",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "The Natural Approach, developed by Stephen Krashen and Tracy Terrell, emphasizes that people \"acquire\" language best by learning naturally like children do. This approach is based on a set of principles. Which of the following is NOT a principle of this approach?",
+    "answers": [
+      {
+        "text": "Learning elements of a second language follows a predictable order",
+        "isCorrect": false
+      },
+      {
+        "text": "Language learning develops through drills and repetition",
+        "isCorrect": true
+      },
+      {
+        "text": "Language is learned when the input is comprehensible",
+        "isCorrect": false
+      },
+      {
+        "text": "Language development occurs in an anxiety-free environment",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Jamal is a high school teacher. He often has behavior problems with his students. He has recently reached a compromise with them: \"Students who do not make noise will get extra marks on their test.\" The teacher's decision raises the issue of",
+    "answers": [
+      {
+        "text": "Conflict of interest",
+        "isCorrect": false
+      },
+      {
+        "text": "Confidentiality",
+        "isCorrect": false
+      },
+      {
+        "text": "Equity",
+        "isCorrect": true
+      },
+      {
+        "text": "Segregation",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "While teaching writing to beginners, Mrs. Benaissa provides close assistance ot the students by helping them with ideas and outlining their writing. She also closely monitors their work and gives them feedback on their writing as recquired. As learners show they have improved their writing skills, the teacher provides them with less support while she allows them to work with peers. What the teacher is doing can be labeled as:",
+    "answers": [
+      {
+        "text": "Rote learning",
+        "isCorrect": false
+      },
+      {
+        "text": "Peer support",
+        "isCorrect": false
+      },
+      {
+        "text": "Scaffolding",
+        "isCorrect": true
+      },
+      {
+        "text": "Conservation",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "In one of her lessons, Nejma decided to use ICT  to teach the simple past tense. She took pictures of some practice exercises from the textbook and projected them to learners.Students worked on the exercises in pairs and the teacher provided them with the correction later.  Which of the following would be the most appropriate judgement to form about Nejma's use of ICT in the lesson?",
+    "answers": [
+      {
+        "text": "Nejma made very good use of ICT in her lessons because she asked learners to work in pairs",
+        "isCorrect": false
+      },
+      {
+        "text": "Nejma didn't use ICT appropriately because she used it only in the practice stage of the lesson",
+        "isCorrect": false
+      },
+      {
+        "text": "Nejma shouldn't have used ICT in that lesson because we can teach the simple past without ICT",
+        "isCorrect": false
+      },
+      {
+        "text": "Nejma used ICT in an appropriate way because she only projected what's already in the textbook",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "For his performance-based lesson, Rachid asked his colleague Leila for feedback on his grammar lesson plan. One of her comments is that the objective of the lesson (By the end of the lesson, students will know the past perfect) is problematic. Which of the following reformulations can be used to improve the lesson objective?",
+    "answers": [
+      {
+        "text": "\"By the end of the lesson, students will be able to recognize the past perfect\"",
+        "isCorrect": false
+      },
+      {
+        "text": "\"By the end of the lesson, students will be able to understand the past perfect\"",
+        "isCorrect": false
+      },
+      {
+        "text": "\"By the end of the lesson, students will be able to appreciate the past perfect",
+        "isCorrect": false
+      },
+      {
+        "text": "\"By the end of the lesson, students will be able to use the past perfect\"",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "During her life, a child goes through different maturational satges. Each stage is characterized by changes which affect various processes. Some of the processes involve changes in the child's thinking and the way they perceive the world around them. This involves the ability to use their reasoing, the ability to memorize things, the ability to think in an abstract way and the ability to think creatively and to solve complex problems. These maturantional changes might be labeled as",
+    "answers": [
+      {
+        "text": "Biological processes",
+        "isCorrect": false
+      },
+      {
+        "text": "Cognitive processes",
+        "isCorrect": true
+      },
+      {
+        "text": "Emotional processes",
+        "isCorrect": false
+      },
+      {
+        "text": "Psychomotor processes",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Abdelali is a high school teacher. He is an ICT enthusiast. He has his own computer and video-projector. In one of his 2nd Year Baccalaureate classes, he is planning to use this equipment in a writing lesson. Which of the following is NOT an appropriate use of Abdelali's equipment to teach wriring?",
+    "answers": [
+      {
+        "text": "It can be used to display learners' grades on the writing task",
+        "isCorrect": true
+      },
+      {
+        "text": "It can be used before students start their writing to help them with ideas",
+        "isCorrect": false
+      },
+      {
+        "text": "It can be used after writing; when the teacher is giving feedback on students' products",
+        "isCorrect": false
+      },
+      {
+        "text": "It can be used to share the outline with the whole class",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "After teaching the past form of regular verbs, Rachid checked student's understanding by asking them to wirte answers to the following questions: \"Wher did you go last weekend? What did you do?\" Maria, one of the students, answered: \" I waked up early and goed to the mall with my friends.\" Why do you think Maria answered in this way?",
+    "answers": [
+      {
+        "text": "She didn't understand the task",
+        "isCorrect": false
+      },
+      {
+        "text": "The teacher didn't practice regular verbs enough",
+        "isCorrect": false
+      },
+      {
+        "text": "There is a problem with the task set by the teacher",
+        "isCorrect": true
+      },
+      {
+        "text": "She hasn't yet mastered regular verbs",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "For which of the following practices can Microsoft PowerPoint be used in a language class?",
+    "answers": [
+      {
+        "text": "Making lists of students who do their homework and those who come to class on time",
+        "isCorrect": false
+      },
+      {
+        "text": "Preparing lists of students' partial grades and averages for the administration",
+        "isCorrect": false
+      },
+      {
+        "text": "Preparing end of term tests and additional practice exercises for learners",
+        "isCorrect": false
+      },
+      {
+        "text": "Providing learners with more updated materials  (such as photos) than those in the textbook",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "After silently reading a text in which different experts express their opinions about illegal immigration, learners were asked to underline all the statements which express different views about the issues in the text. They are then asked to work in pairs and sort out the different views into those who are with and those who are against immigration and their arguments. Finally, the teacher asked learners to react to the arguments of each person and to say which one is more convincing and why. Which of the following pair of levels in Bloom's taxonomy of cognitive objectives is the teacher targeting in her activities in the lesson?",
+    "answers": [
+      {
+        "text": "Application and creation",
+        "isCorrect": false
+      },
+      {
+        "text": "Analysis and evaluation",
+        "isCorrect": true
+      },
+      {
+        "text": "Remembering  and understanding",
+        "isCorrect": false
+      },
+      {
+        "text": "Analysis and creation",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Najwa is a secondary school student who has some special characteristics. She is too hasty in dealing with classroom tasks and tests. She raises her hand to answer the teacher's questions even before he finishes talking. She also does not take enough time to consider the taskds and the different possible ways of dealing with them. Hence, she often tends to make a lot of mistakes. What type of learner is Najwa?",
+    "answers": [
+      {
+        "text": "She's a reflective learner",
+        "isCorrect": false
+      },
+      {
+        "text": "She's an impulsive learner",
+        "isCorrect": true
+      },
+      {
+        "text": "She's an autonomous learner",
+        "isCorrect": false
+      },
+      {
+        "text": "She's a dependent learner.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "The Silent Way is mainly based on the principles of the Cognitive Approach. One of these principles is that \"teaching should be subordinated to learning\". This means that",
+    "answers": [
+      {
+        "text": "The teacher's role in the classroom is secondary.",
+        "isCorrect": false
+      },
+      {
+        "text": "Teaching is learner-centered.",
+        "isCorrect": true
+      },
+      {
+        "text": "The teacher does not have to plan his teaching.",
+        "isCorrect": false
+      },
+      {
+        "text": "It is the students who decide on what to learn.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "In a reading lesson, after the students answered a couple of questions about the main ideas of the  text, the teacher asked them to talk about what strategies they used to get their answers. The teacher is thus targeting students'...",
+    "answers": [
+      {
+        "text": "cognitive strategies.",
+        "isCorrect": false
+      },
+      {
+        "text": "metacognitive strategies.",
+        "isCorrect": true
+      },
+      {
+        "text": "social strategies.",
+        "isCorrect": false
+      },
+      {
+        "text": "affective strategies.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "The term______________________refers to lists of content to be taught through a course of study.",
+    "answers": [
+      {
+        "text": "curriculum",
+        "isCorrect": false
+      },
+      {
+        "text": "Method",
+        "isCorrect": false
+      },
+      {
+        "text": "Syllabus",
+        "isCorrect": true
+      },
+      {
+        "text": "Approach",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the following is an example of an active learning activity in EFL?",
+    "answers": [
+      {
+        "text": "Participating in group discussion about a topic.",
+        "isCorrect": false
+      },
+      {
+        "text": "Listening to a teacher's explanation.",
+        "isCorrect": false
+      },
+      {
+        "text": "Replicating a dialogue.",
+        "isCorrect": true
+      },
+      {
+        "text": "Completing a grammar worksheet individually.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "In one of the methods below, the learners' native language is substantially employed in class. Which method is this?",
+    "answers": [
+      {
+        "text": "The Direct Method.",
+        "isCorrect": false
+      },
+      {
+        "text": "The Grammar-Translation Method.",
+        "isCorrect": true
+      },
+      {
+        "text": "The Audio-Lingual Method.",
+        "isCorrect": false
+      },
+      {
+        "text": "Total Physical Response.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "What is the main purpose of a curriculum in EFL?",
+    "answers": [
+      {
+        "text": "To keep students busy with different types of activities.",
+        "isCorrect": false
+      },
+      {
+        "text": "To create a strict daily schedule for teachers and learners.",
+        "isCorrect": false
+      },
+      {
+        "text": "To help students enhance their knowledge of grammar.",
+        "isCorrect": false
+      },
+      {
+        "text": "To provide a framework for teaching and learning.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Which of the following is NOT typically a component of a well-structured EFL curriculum?",
+    "answers": [
+      {
+        "text": "Learning goals and outcomes.",
+        "isCorrect": false
+      },
+      {
+        "text": "Assessment Strategies.",
+        "isCorrect": false
+      },
+      {
+        "text": "Educational philosophy.",
+        "isCorrect": true
+      },
+      {
+        "text": "Detailed lesson plans.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the following is NOT a feature of Learner-Centered Instruction?",
+    "answers": [
+      {
+        "text": "Having learners solve problems.",
+        "isCorrect": false
+      },
+      {
+        "text": "Explaining language items to students.",
+        "isCorrect": true
+      },
+      {
+        "text": "Encouraging learners to inquire.",
+        "isCorrect": false
+      },
+      {
+        "text": "Encouraging learners to cooperate and collaborate.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Within__________________________, use is emphasized over form, and functional syllabus is adopted.",
+    "answers": [
+      {
+        "text": "the Learner-Centered Approach",
+        "isCorrect": false
+      },
+      {
+        "text": "the Audio-Lingual Method",
+        "isCorrect": false
+      },
+      {
+        "text": "Competency-Based Education",
+        "isCorrect": false
+      },
+      {
+        "text": "the Communicative Approach",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "The initial focus in this method is on accurate pronunciation so that learners can achieve a native-like fluency in the long run.",
+    "answers": [
+      {
+        "text": "Suggestopedia",
+        "isCorrect": false
+      },
+      {
+        "text": "The Silent Way",
+        "isCorrect": false
+      },
+      {
+        "text": "The Audio-Lingual Method",
+        "isCorrect": true
+      },
+      {
+        "text": "The Direct Method",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the following is NOT a characteristic of active learning in EFL?",
+    "answers": [
+      {
+        "text": "Significant reliance on the teacher's explanation",
+        "isCorrect": true
+      },
+      {
+        "text": "Enhanced critical thinking and problem-solving skills",
+        "isCorrect": false
+      },
+      {
+        "text": "Improved language retention and acquisition",
+        "isCorrect": false
+      },
+      {
+        "text": "Developed communication and speaking skills",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "What is the primary focus of the Direct Method in EFL teaching?..",
+    "answers": [
+      {
+        "text": "Using the target language as the only means of instruction.",
+        "isCorrect": true
+      },
+      {
+        "text": "Employing authentic materials for language instruction.",
+        "isCorrect": false
+      },
+      {
+        "text": "Teaching grammar and vocabulary through translation.",
+        "isCorrect": false
+      },
+      {
+        "text": "Emphasizing vocabulary retention over grammar instruction.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "One of the approaches in  second language education advocates the combination of various methods, techniques, and principles based on what is most effective for the learners and the specific teaching context. Which among the following is NOT the approach in question?",
+    "answers": [
+      {
+        "text": "Post-Method pedagogy",
+        "isCorrect": false
+      },
+      {
+        "text": "Task-Based Language Teaching",
+        "isCorrect": true
+      },
+      {
+        "text": "The Eclectic Approach",
+        "isCorrect": false
+      },
+      {
+        "text": "The Pragmatic Principled Eclectic Approach..",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "The following activity is an illustration of which approach to second language teaching? SITUATION: A group of friends is planning a trip to France. They need to develop a budget, book their flights and accommodations, and create a sightseeing itinerary. TASK: The teacher divides the students into small groups and gives each group a copy of the situation. The students then work together to research the cost of flights and accommodations in France and to develop a sightseeing itinerary that meets their interests and budget. The students then present their findings to the class.",
+    "answers": [
+      {
+        "text": "Inquiry-based Learning",
+        "isCorrect": false
+      },
+      {
+        "text": "Discovery Learning",
+        "isCorrect": false
+      },
+      {
+        "text": "Case-based Learning",
+        "isCorrect": true
+      },
+      {
+        "text": "The Direct Method",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Discovery Learning aligns with which of the following learning theories?",
+    "answers": [
+      {
+        "text": "Behaviorism",
+        "isCorrect": false
+      },
+      {
+        "text": "Cognitivism",
+        "isCorrect": false
+      },
+      {
+        "text": "Constructivism",
+        "isCorrect": false
+      },
+      {
+        "text": "Social Constructivism",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "The introduction of the theory of Communicative Competence has shaped the subsequent second language teaching practice. Targeting coherence and cohesion in learners' language production promotes their...",
+    "answers": [
+      {
+        "text": "strategic competence .",
+        "isCorrect": false
+      },
+      {
+        "text": "discourse competence .",
+        "isCorrect": true
+      },
+      {
+        "text": "sociocultural competence.",
+        "isCorrect": false
+      },
+      {
+        "text": "interactional competence.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the following pertains more to the field of pedagogy than to that of didactics?",
+    "answers": [
+      {
+        "text": "Lesson planning",
+        "isCorrect": false
+      },
+      {
+        "text": "Teaching methods and techniques",
+        "isCorrect": false
+      },
+      {
+        "text": "Educational philosophy",
+        "isCorrect": true
+      },
+      {
+        "text": "Assessment of learning",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Task-Based Language Instruction views language as...",
+    "answers": [
+      {
+        "text": "A system of structures.",
+        "isCorrect": false
+      },
+      {
+        "text": "A set of fixed phrases and collocations.",
+        "isCorrect": false
+      },
+      {
+        "text": "A set of habits and patterns.",
+        "isCorrect": false
+      },
+      {
+        "text": "A means of achieving real-world goals.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Competency-Based Learning does NOT...",
+    "answers": [
+      {
+        "text": "take into accounts learners' effort in assessment.",
+        "isCorrect": true
+      },
+      {
+        "text": "adopt a performance-based model in assessment.",
+        "isCorrect": false
+      },
+      {
+        "text": "ensure learners are aware of what is expected of them.",
+        "isCorrect": false
+      },
+      {
+        "text": "target real-world application of knowledge and skills.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "While assigning tasks to her students, teacher Najibi usually offers her students the possibility to choose an activity among others and to join the groups that fit their profile. This is an example of ...",
+    "answers": [
+      {
+        "text": "learner-centeredness.",
+        "isCorrect": true
+      },
+      {
+        "text": "extrovert learning.",
+        "isCorrect": false
+      },
+      {
+        "text": "introvert learning.",
+        "isCorrect": false
+      },
+      {
+        "text": "time-management.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Teacher Nadir realizes that one of her students does not feel comfortable working in groups and that she rather prefers to work on her own. Which of the following decisions would NOT be appropriate to be undertaken by the teacher?",
+    "answers": [
+      {
+        "text": "Talk to the student about the skillset she will develop by working in groups.",
+        "isCorrect": false
+      },
+      {
+        "text": "Encourage the student to take part in collaborative work gradually.",
+        "isCorrect": false
+      },
+      {
+        "text": "Allow the student to work individually from time to time.",
+        "isCorrect": false
+      },
+      {
+        "text": "Disregard the student's discomfort and assign  her to one of the groups.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Which of the following does NOT refer to who the autonomous learner is?",
+    "answers": [
+      {
+        "text": "The one who constructs knowledge from direct experience.",
+        "isCorrect": false
+      },
+      {
+        "text": "The one who does not seek guidance when needed.",
+        "isCorrect": true
+      },
+      {
+        "text": "The one who manages and monitors their own learning.",
+        "isCorrect": false
+      },
+      {
+        "text": "The one who takes responsibility for their own learning.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "A mixed-ability class is also referred to as...",
+    "answers": [
+      {
+        "text": "a collaborative class.",
+        "isCorrect": false
+      },
+      {
+        "text": "a heterogenous class.",
+        "isCorrect": true
+      },
+      {
+        "text": "a learner-centered class.",
+        "isCorrect": false
+      },
+      {
+        "text": "an interactive class.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "In EFL, it is usually recommended that learners work on receptive tasks before productive ones. Which of the following is NOT  the reason for this order?",
+    "answers": [
+      {
+        "text": "Learners need to comprehend before they can produce language.",
+        "isCorrect": false
+      },
+      {
+        "text": "Carrying out productive tasks first ensures inaccurate output..",
+        "isCorrect": false
+      },
+      {
+        "text": "Receptive tasks take less time than productive ones.",
+        "isCorrect": true
+      },
+      {
+        "text": "Learners get overwhelmed if asked to produce at early stages.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Teacher Ibrahimi, a middle school EFL teacher, consistently ensures he restrains the number of grammar forms he targets in every grammar lesson. Which of the following theories the teacher is adhering to? ..",
+    "answers": [
+      {
+        "text": "Cognitivism",
+        "isCorrect": true
+      },
+      {
+        "text": "Structuralism",
+        "isCorrect": false
+      },
+      {
+        "text": "Multiple Intelligences",
+        "isCorrect": false
+      },
+      {
+        "text": "Socioculturalism",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the following is NOT a component of self-regulated learning?",
+    "answers": [
+      {
+        "text": "Adjusting the learning strategies.",
+        "isCorrect": false
+      },
+      {
+        "text": "Monitoring learning progress.",
+        "isCorrect": false
+      },
+      {
+        "text": "Relying on external motivation.",
+        "isCorrect": true
+      },
+      {
+        "text": "Setting learning goals.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Group-work enhances students' learning but some EFL teachers complain about some students' disengagement and reliance on other group members to carry out tasks. What should these teachers do to overcome the problem?",
+    "answers": [
+      {
+        "text": "Arrange students according to their levels and interests.",
+        "isCorrect": true
+      },
+      {
+        "text": "Select the same type of activities for every group work.",
+        "isCorrect": false
+      },
+      {
+        "text": "Encourage the advanced learners to carry out the task.",
+        "isCorrect": false
+      },
+      {
+        "text": "Ensure task distribution among all the group members.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Jalil wants to explain \"a double-decker bus\" to his students. How can he BEST do that?",
+    "answers": [
+      {
+        "text": "By showing the students a picture of the double-decker.",
+        "isCorrect": false
+      },
+      {
+        "text": "By having students listen to the sound of a double-decker bus.",
+        "isCorrect": false
+      },
+      {
+        "text": "By explaining orally what a double-decker bus is.",
+        "isCorrect": false
+      },
+      {
+        "text": "By showing the students a video of the double-decker bus.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Which of the following tasks is NOT receptive?",
+    "answers": [
+      {
+        "text": "Categorizing",
+        "isCorrect": false
+      },
+      {
+        "text": "Summarizing",
+        "isCorrect": true
+      },
+      {
+        "text": "Verifying",
+        "isCorrect": false
+      },
+      {
+        "text": "Identifying",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the teacher practices below is teacher-centered?",
+    "answers": [
+      {
+        "text": "The mode of interaction is usually student-student.",
+        "isCorrect": false
+      },
+      {
+        "text": "The teacher supplements the couresebook.",
+        "isCorrect": false
+      },
+      {
+        "text": "The teacher's concern is to cover the course content?",
+        "isCorrect": true
+      },
+      {
+        "text": "The teacher provides on-demand support.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "The 5 Cs in Standards-Based Language Teaching refer to Communication, Cultures, Connections, Comparisons, and Communities. An EFL teacher would like to teach listening with a focus on understading different cultures. Which of the following would NOT serve this purpose?",
+    "answers": [
+      {
+        "text": "Using authentic audio materials from diverse cultural sources.",
+        "isCorrect": false
+      },
+      {
+        "text": "Encouraging students to explore multicultural media.",
+        "isCorrect": false
+      },
+      {
+        "text": "Employing listening materials that are related to others subjects, such as science.",
+        "isCorrect": true
+      },
+      {
+        "text": "Integrating cross-cultural discussions and dialogues into the lesson.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the following is an example of synchronous ICT tool for teaching English?",
+    "answers": [
+      {
+        "text": "A language learning app.",
+        "isCorrect": false
+      },
+      {
+        "text": "Real-time video conferencing.",
+        "isCorrect": true
+      },
+      {
+        "text": "A forum where students post comments at their convenience.",
+        "isCorrect": false
+      },
+      {
+        "text": "An email exchange between students.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "In Blended Learning, how are ICT tools typically integrated?",
+    "answers": [
+      {
+        "text": "They complement face-to-face instruction.",
+        "isCorrect": true
+      },
+      {
+        "text": "They are used exclusively for homework assignments.",
+        "isCorrect": false
+      },
+      {
+        "text": "They completely replace traditional classroom instruction.",
+        "isCorrect": false
+      },
+      {
+        "text": "They are used for training teachers and trainees.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Promoting extensive reading involves having learners...",
+    "answers": [
+      {
+        "text": "read a substantial number of texts.",
+        "isCorrect": true
+      },
+      {
+        "text": "analyze the language used in texts.",
+        "isCorrect": false
+      },
+      {
+        "text": "read texts at a slow pace.",
+        "isCorrect": false
+      },
+      {
+        "text": "look up unfamiliar words in a dictionary.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Tasks fostering learners' metacognitive skills involve tasks that encourage learners to...",
+    "answers": [
+      {
+        "text": "develop learning strategies.",
+        "isCorrect": true
+      },
+      {
+        "text": "analyze information.",
+        "isCorrect": false
+      },
+      {
+        "text": "solve problems.",
+        "isCorrect": false
+      },
+      {
+        "text": "ask open-ended questions.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Having students engage with primary learning materials  (videos, audio-recordings , or readings) at home, and then come to class for more active and interactive learning activities on the same learning materials is widely known as...",
+    "answers": [
+      {
+        "text": "flipped strategy.",
+        "isCorrect": false
+      },
+      {
+        "text": "flipped instruction.",
+        "isCorrect": true
+      },
+      {
+        "text": "flipped skill.",
+        "isCorrect": false
+      },
+      {
+        "text": "flipped technique.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the following is an example of an inclusive practice that the teacher can use to help introverted learners learn english?",
+    "answers": [
+      {
+        "text": "Offering them time to think before answering questions.",
+        "isCorrect": true
+      },
+      {
+        "text": "Requiring them to give presentations in front of the class.",
+        "isCorrect": false
+      },
+      {
+        "text": "Pairing them with extroverted learners for all class activities.",
+        "isCorrect": false
+      },
+      {
+        "text": "Avoiding calling on them in class.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the following is NOT a speaking subskill?",
+    "answers": [
+      {
+        "text": "Producing correct intonation and stress.",
+        "isCorrect": false
+      },
+      {
+        "text": "Making use of discourse markers.",
+        "isCorrect": false
+      },
+      {
+        "text": "Using pitch and intensity appropriately.",
+        "isCorrect": false
+      },
+      {
+        "text": "Identifying the main idea and details.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "The teacher noticed one of the students is struggling to learn in class. He seems withdrawn and having difficulty concentrating and completing tasks. The teacher suspects he may be facing personal issues that are impacting his learning. She decides to offer him guidance on how to manage his emotions,build positive relationships, and make responsible decisions. This teacher is therefore...",
+    "answers": [
+      {
+        "text": "offering help through individualized extra sessions.",
+        "isCorrect": false
+      },
+      {
+        "text": "providing help through differentiated instruction.",
+        "isCorrect": false
+      },
+      {
+        "text": "collaborating with parents and other professionals.",
+        "isCorrect": false
+      },
+      {
+        "text": "offering social-emotional learning instruction.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Which of the following is NOT a writing subskill?..",
+    "answers": [
+      {
+        "text": "Using appropriate text structure according to the targeted format.",
+        "isCorrect": false
+      },
+      {
+        "text": "Completing a dialogue.",
+        "isCorrect": false
+      },
+      {
+        "text": "Transferring information from text to chart.",
+        "isCorrect": true
+      },
+      {
+        "text": "Writing an email.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "In teaching speaking, the teacher can target three aspects: speaking as interaction, speaking as performance, as well as ____________________.",
+    "answers": [
+      {
+        "text": "speaking as demonstration.",
+        "isCorrect": false
+      },
+      {
+        "text": "speaking as transaction.",
+        "isCorrect": false
+      },
+      {
+        "text": "speaking as expression.",
+        "isCorrect": true
+      },
+      {
+        "text": "speaking as description.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Teacher Rayhani intends to supplement the course book with additional materials to teach reading. Which of the following should be the FIRST signficant criterion he needs to consider when selecting reading passages?",
+    "answers": [
+      {
+        "text": "Length, richness, and complexity of the reading passage",
+        "isCorrect": false
+      },
+      {
+        "text": "Relevance to the projected learning outcomes",
+        "isCorrect": false
+      },
+      {
+        "text": "Appeal to learners' needs and interests",
+        "isCorrect": false
+      },
+      {
+        "text": "Alignment with the learners' language proficiency level",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Which of the following is an example of summative assessment in EFL ?",
+    "answers": [
+      {
+        "text": "Quizzes at the end of each unit.",
+        "isCorrect": false
+      },
+      {
+        "text": "Debates at the end of each unit.",
+        "isCorrect": false
+      },
+      {
+        "text": "An exam at the end of the semester.",
+        "isCorrect": true
+      },
+      {
+        "text": "Assignments at the end of the session.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the following is an example of perforamnce-based assessment?",
+    "answers": [
+      {
+        "text": "Rewriting sentences",
+        "isCorrect": false
+      },
+      {
+        "text": "Matching exercices",
+        "isCorrect": false
+      },
+      {
+        "text": "Public speaking",
+        "isCorrect": true
+      },
+      {
+        "text": "Gap-filling exercices",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "The diagnostic test is an assessment instrument that provides the teacher with data about the proficiency levels of students. Which of the following is the stage that immediately follows the gathering of this data?",
+    "answers": [
+      {
+        "text": "Setting remedial instruction goals",
+        "isCorrect": false
+      },
+      {
+        "text": "Evaluating student progress",
+        "isCorrect": false
+      },
+      {
+        "text": "Delivering the remedial instruction",
+        "isCorrect": false
+      },
+      {
+        "text": "Devising a remedial instruction plan",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "When a particular test shapes how teachers approach their instruction in terms of content, format, and focus , this is referred to as the ________________ effect.",
+    "answers": [
+      {
+        "text": "washback",
+        "isCorrect": false
+      },
+      {
+        "text": "Validity",
+        "isCorrect": true
+      },
+      {
+        "text": "practicality",
+        "isCorrect": false
+      },
+      {
+        "text": "reliability",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Believing that cognitive abilities have a significant impact on his learning , Amine invests in developing the following strategies : goal setting, prioritizing, planning, organizing, managing time, and practicing self-regulation. The cognitive ability Amine makes use of is ...",
+    "answers": [
+      {
+        "text": "perception.",
+        "isCorrect": false
+      },
+      {
+        "text": "social cognition.",
+        "isCorrect": false
+      },
+      {
+        "text": "logic and reasoning.",
+        "isCorrect": false
+      },
+      {
+        "text": "executive function.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Which of the following is the most effective self-regulation strategy for struggling language learners ?",
+    "answers": [
+      {
+        "text": "Accepting their mistake and celebrating small victories along the way.",
+        "isCorrect": true
+      },
+      {
+        "text": "Comparing themselves to other succesful learners.",
+        "isCorrect": false
+      },
+      {
+        "text": "Focusing on their mistakes and working towards their eradication.",
+        "isCorrect": false
+      },
+      {
+        "text": "Setting high goals and striving to achieve them at all costs.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "How can teachers plan effective reading lessons?",
+    "answers": [
+      {
+        "text": "Plan reading the passage as a first task.",
+        "isCorrect": false
+      },
+      {
+        "text": "Design tasks for the different stages of reading.",
+        "isCorrect": false
+      },
+      {
+        "text": "Select lengthy texts as a homework activity.",
+        "isCorrect": false
+      },
+      {
+        "text": "Adopt reading and comprehension exercises.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Which of the following is NOT an impact of family issues on leraners?..",
+    "answers": [
+      {
+        "text": "Disruption of their ability to plan and manage tasks.",
+        "isCorrect": false
+      },
+      {
+        "text": "Lowering of their intrinsic motivation and engagement.",
+        "isCorrect": false
+      },
+      {
+        "text": "Inhibition of their cognitive development.",
+        "isCorrect": true
+      },
+      {
+        "text": "Disruption of their ability to concentrate.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "What are the following called? 1. Learners can write clear and simple texts on familiar topics related to their work, study, leisure, and immediate environment. 2. Learners can use a variety of sentence structures and tenses, and they can organize their writing in a logical way.",
+    "answers": [
+      {
+        "text": "Standards",
+        "isCorrect": false
+      },
+      {
+        "text": "Outcomes",
+        "isCorrect": false
+      },
+      {
+        "text": "Competencies",
+        "isCorrect": false
+      },
+      {
+        "text": "Descriptors",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "A____________________is a type of negative feedback which involves rephrasing an incorrect or incomplete utterance produced by the student by changing one or more components.",
+    "answers": [
+      {
+        "text": "clarification request",
+        "isCorrect": false
+      },
+      {
+        "text": "confirmation check",
+        "isCorrect": false
+      },
+      {
+        "text": "metalinguistic clue",
+        "isCorrect": false
+      },
+      {
+        "text": "recast",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "According to Willis (1996), in Task-Based Instruction, the teacher helps students learn new language items in a contextualizd fashion. This takes place during...",
+    "answers": [
+      {
+        "text": "the post-task phase.",
+        "isCorrect": true
+      },
+      {
+        "text": "the pre-task phase",
+        "isCorrect": false
+      },
+      {
+        "text": "the task phase.",
+        "isCorrect": false
+      },
+      {
+        "text": "the pre-task, the task, and the post-task phases.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the concepts below refers to the idea of \" sitting with\" students?",
+    "answers": [
+      {
+        "text": "Examining",
+        "isCorrect": false
+      },
+      {
+        "text": "Assessing",
+        "isCorrect": true
+      },
+      {
+        "text": "Evaluating",
+        "isCorrect": false
+      },
+      {
+        "text": "Testing",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Karim is a tenth grader who suffers from speech impairment, but who is smart and hardworking. How should his current teachers address his case and other similar cases? ..",
+    "answers": [
+      {
+        "text": "Feel sorry for them and show sympathy.",
+        "isCorrect": false
+      },
+      {
+        "text": "Involve them in tasks according to their profiles.",
+        "isCorrect": false
+      },
+      {
+        "text": "Offer them extended wait time while on task.",
+        "isCorrect": true
+      },
+      {
+        "text": "Assign them the same tasks as their peers.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "The teacher is convinced on her students cheats on test. She, nonetheless, has no evidence to support this suspicion. What is the most appropriate course of action to address this situation?",
+    "answers": [
+      {
+        "text": "To closely observe the student during future tests.",
+        "isCorrect": true
+      },
+      {
+        "text": "To refrain from taking any action.",
+        "isCorrect": false
+      },
+      {
+        "text": "To confront the student about the cheating.",
+        "isCorrect": false
+      },
+      {
+        "text": "To have the student retake the previous tests.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the following is related more to the teacher's duties than to the ethics of the profession?",
+    "answers": [
+      {
+        "text": "Honesty",
+        "isCorrect": false
+      },
+      {
+        "text": "Approchability",
+        "isCorrect": false
+      },
+      {
+        "text": "Integrity",
+        "isCorrect": false
+      },
+      {
+        "text": "Student evaluation",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "Teacher Eiyadi, a high school EFL teacher, maintains healthy bonds with his colleagues at work. In doing so, he upholds principles of...",
+    "answers": [
+      {
+        "text": "social ethics",
+        "isCorrect": false
+      },
+      {
+        "text": "interpersonal ethics",
+        "isCorrect": false
+      },
+      {
+        "text": "professional ethics",
+        "isCorrect": true
+      },
+      {
+        "text": "personal ethics.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the following is NOT a task for pair work?",
+    "answers": [
+      {
+        "text": "Information gap activities",
+        "isCorrect": false
+      },
+      {
+        "text": "Role-plays",
+        "isCorrect": false
+      },
+      {
+        "text": "Peer editing",
+        "isCorrect": false
+      },
+      {
+        "text": "Jigsaw reading",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "What is NOT the purpose of negative reinforcement?",
+    "answers": [
+      {
+        "text": "To decrease a behavior.",
+        "isCorrect": false
+      },
+      {
+        "text": "To increase a behavior.",
+        "isCorrect": true
+      },
+      {
+        "text": "To reject a behavior.",
+        "isCorrect": false
+      },
+      {
+        "text": "To suppress a behavior",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "Which of the following describes the desired teacher's and learners' roles during a group work activity ?",
+    "answers": [
+      {
+        "text": "The teacher is active while students are passive.",
+        "isCorrect": false
+      },
+      {
+        "text": "The teacher is active while students are mainly passive.",
+        "isCorrect": false
+      },
+      {
+        "text": "The teacher and students are equally active.",
+        "isCorrect": false
+      },
+      {
+        "text": "Students are active while the teacher is mainly a monitor.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "While having her students work in groups, the teacher noticed one of the groups was not engaged at all in accomplishing the assigned task. This happened most likely because the teacher did not ...",
+    "answers": [
+      {
+        "text": "assign roles to the group members.",
+        "isCorrect": false
+      },
+      {
+        "text": "set clear instructions to class.",
+        "isCorrect": false
+      },
+      {
+        "text": "intervene during the group formation.",
+        "isCorrect": false
+      },
+      {
+        "text": "give them her attention",
+        "isCorrect": false
+      }
+    ]
+  }
+]
